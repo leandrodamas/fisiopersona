@@ -4,6 +4,7 @@ node_modules/
 __pycache__/
 *.pyc
 config.js
+vercel-env.local
 .env
 .env.local
 .env.*

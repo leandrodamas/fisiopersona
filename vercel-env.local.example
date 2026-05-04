@@ -1,0 +1,15 @@
+# Copie este ficheiro para vercel-env.local e preencha (vercel-env.local não vai para o git).
+# Depois: node scripts/push-vercel-env.mjs
+# Token: https://vercel.com/account/tokens
+
+VERCEL_TOKEN=
+
+# Obrigatório se o projeto está sob uma equipa (ex.: URL vercel.com/leandrodamas-projects/...)
+# Vercel → a equipa → Settings → General → Team ID
+VERCEL_TEAM_ID=
+
+# Opcional se o nome do projeto no Vercel não for o default:
+# VERCEL_PROJECT_NAME=fisio-saas-vercel
+
+FISIO_SUPABASE_URL=https://SEU-PROJETO.supabase.co
+FISIO_SUPABASE_ANON_KEY=

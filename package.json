@@ -7,6 +7,7 @@
     "start": "npx serve . -l 3000",
     "start:vercel": "npx vercel dev",
     "deploy": "vercel --prod",
+    "vercel:env": "node scripts/push-vercel-env.mjs",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "db:migrate": "node scripts/apply-supabase-migrations.mjs",

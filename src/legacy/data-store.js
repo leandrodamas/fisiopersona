@@ -513,11 +513,12 @@
 
     function loadAll() {
       if (!deps.hasSupabaseConfig()) {
-        deps.setLoading(
-          true,
-          '❌ Configuração não encontrada<br><br>' +
-            '<span style="color:#64748b;font-size:12px">Crie/edite o arquivo <b>config.js</b> com as credenciais do Supabase.<br>Use <b>config.example.js</b> como modelo.</span>'
-        );
+        var msg =
+          typeof deps.configMissingHelpHtml === 'function'
+            ? deps.configMissingHelpHtml()
+            : '\u274c Configura\u00e7\u00e3o n\u00e3o encontrada<br><br>' +
+              '<span style="color:#64748b;font-size:12px">Crie/edite o arquivo <b>config.js</b> com as credenciais do Supabase.<br>Use <b>config.example.js</b> como modelo.</span>';
+        deps.setLoading(true, msg);
         return;
       }
 

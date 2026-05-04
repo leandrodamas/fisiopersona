@@ -978,6 +978,12 @@ var APP_CFG = window.__FISIO_CONFIG__ || {};
 var SB_URL = APP_CFG.supabaseUrl || '';
 var SB_KEY = APP_CFG.supabaseAnonKey || '';
 var CORE = window.FisioCore || null;
+function configMissingHelpHtml(){
+  return CORE && typeof CORE.configMissingHelpHtml === 'function'
+    ? CORE.configMissingHelpHtml()
+    : '\u274c Configura\u00e7\u00e3o n\u00e3o encontrada<br><br>' +
+      '<span style="color:#64748b;font-size:12px">Crie/edite o arquivo <b>config.js</b> com as credenciais do Supabase.<br>Use <b>config.example.js</b> como modelo.</span>';
+}
 if(window.FisioObservability) window.FisioObservability.init();
 
 // \u2500\u2500 ESTADO \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
@@ -1016,7 +1022,8 @@ var DATA = window.createFisioDataHandlers ? window.createFisioDataHandlers({
   go: function(id){ return go(id); },
   esc: function(v){ return esc(v); },
   toast: function(msg, ok){ return toast(msg, ok); },
-  normName: function(v){ return normName(v); }
+  normName: function(v){ return normName(v); },
+  configMissingHelpHtml: function(){ return configMissingHelpHtml(); }
 }) : null;
 
 // \u2500\u2500 CONSTANTES \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
@@ -3232,10 +3239,7 @@ function setLoading(on, msg) {
 function loadAll() {
   if(DATA) return DATA.loadAll();
   if(!hasSupabaseConfig()) {
-    setLoading(true,
-      '❌ Configuração não encontrada<br><br>' +
-      '<span style="color:#64748b;font-size:12px">Crie/edite o arquivo <b>config.js</b> com as credenciais do Supabase.<br>Use <b>config.example.js</b> como modelo.</span>'
-    );
+    setLoading(true, configMissingHelpHtml());
     return;
   }
   ST.session = getSession();

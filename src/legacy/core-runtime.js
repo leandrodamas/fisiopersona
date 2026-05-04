@@ -124,9 +124,24 @@
     });
   }
 
+  function configMissingHelpHtml() {
+    var c = window.__FISIO_CONFIG__;
+    var hasObj = c && typeof c === 'object';
+    var url = hasObj ? String(c.supabaseUrl || '').trim() : '';
+    var key = hasObj ? String(c.supabaseAnonKey || '').trim() : '';
+    if (hasObj && !url && !key) {
+      return '\u274c Supabase n\u00e3o configurado neste deploy<br><br>' +
+        '<span style="color:#64748b;font-size:12px">O <b>config.js</b> foi gerado <b>sem credenciais</b>. No <b>Vercel</b>: <b>Settings \u2192 Environment Variables</b> \u2014 adicione <b>FISIO_SUPABASE_URL</b> e <b>FISIO_SUPABASE_ANON_KEY</b> (ou <b>SUPABASE_URL</b> e <b>SUPABASE_ANON_KEY</b>), marque <b>Production</b> e <b>Preview</b>, guarde e fa\u00e7a <b>Redeploy</b>.<br><br>' +
+        'Se o link de <b>pr\u00e9-visualiza\u00e7\u00e3o</b> mostrar <b>403 Forbidden</b>: <b>Settings \u2192 Deployment Protection</b> \u2014 desative a prote\u00e7\u00e3o nas previews ou use o dom\u00ednio de <b>Production</b>.</span>';
+    }
+    return '\u274c Configura\u00e7\u00e3o n\u00e3o encontrada<br><br>' +
+      '<span style="color:#64748b;font-size:12px">Crie/edite o arquivo <b>config.js</b> com as credenciais do Supabase.<br>Use <b>config.example.js</b> como modelo.</span>';
+  }
+
   window.FisioCore = {
     get config() { return getConfig(); },
     hasSupabaseConfig: hasSupabaseConfig,
+    configMissingHelpHtml: configMissingHelpHtml,
     getSession: getSession,
     setSession: setSession,
     sessionExpired: sessionExpired,

@@ -3,8 +3,12 @@ public/
 node_modules/
 __pycache__/
 *.pyc
-config.js
+# Só o config.js na raiz (credenciais locais); não usar padrão global ou api/config.js fica ignorado.
+/config.js
 vercel-env.local
+.vercel-token
+vercel.token
+vercel-token.txt
 .env
 .env.local
 .env.*

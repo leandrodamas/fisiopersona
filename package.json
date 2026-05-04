@@ -1,0 +1,26 @@
+{
+  "name": "fisio-saas",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Static build not required\"",
+    "start": "npx serve . -l 3000",
+    "start:vercel": "npx vercel dev",
+    "deploy": "vercel --prod",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "db:migrate": "node scripts/apply-supabase-migrations.mjs",
+    "db:migrate:dry": "node scripts/apply-supabase-migrations.mjs --dry-run",
+    "supabase:apply": "node scripts/apply-supabase-migrations.mjs",
+    "supabase:apply:dry": "node scripts/apply-supabase-migrations.mjs --dry-run"
+  },
+  "dependencies": {
+    "pg": "^8.13.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^2.1.9",
+    "jsdom": "^25.0.1"
+  }
+}

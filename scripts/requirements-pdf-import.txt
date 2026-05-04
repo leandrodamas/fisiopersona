@@ -1,0 +1,2 @@
+# Opcional: importar tabela CID x procedimento a partir do PDF oficial
+pypdf>=5.0.0

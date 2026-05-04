@@ -1,0 +1,55 @@
+FISIO SAAS - COMO USAR
+
+Arquivos criados:
+- fisio_saas.html: aplicativo pronto para abrir no navegador.
+- supabase_saas_seguro.sql: politicas para exigir login no Supabase.
+
+Primeiro uso:
+1. Abra fisio_saas.html no navegador.
+2. Use "Criar acesso" com e-mail e senha, ou crie o usuario em Supabase > Authentication > Users.
+3. Entre no sistema.
+
+Para fechar o acesso como SaaS privado:
+1. No Supabase, abra SQL Editor.
+2. Execute supabase_saas_seguro.sql.
+3. A partir disso, apenas usuarios autenticados acessam professores, pacientes e sessoes.
+
+Observacao:
+Este modelo protege o acesso por login da equipe. Para vender para varias clinicas isoladas entre si,
+o proximo passo e adicionar uma coluna tenant_id nas tabelas e politicas RLS por organizacao.
+
+Configuracao segura (fase 0):
+1. Copie config.example.js para config.js.
+2. Preencha supabaseUrl e supabaseAnonKey no config.js.
+3. Nunca publique credenciais diretamente no index.html.
+
+Base modular TypeScript (fase 1):
+- Estrutura inicial em src/core e src/modules para separar config, auth e api.
+- Rode `npm run typecheck` para validar os tipos da base nova.
+
+Proximo passo da fase 1 (modularizacao sem quebra):
+- Novo modulo runtime em `src/legacy/core-runtime.js` centraliza sessao, auth e requisicoes Supabase.
+- `index.html` passou a delegar essa infraestrutura ao modulo, reduzindo acoplamento direto.
+- Estado inicial foi extraido para `src/legacy/store.js`.
+- Camada de dados (CRUD, loadAll e fallback de schema para professor.cns) foi extraida para `src/legacy/data-store.js`.
+- `index.html` agora delega auth + data para modulos dedicados, mantendo compatibilidade com a interface atual.
+
+Fase 2 (qualidade + CI + observabilidade):
+- Testes unitarios com Vitest adicionados para config, sessao e cliente Supabase.
+- Pipeline CI em `.github/workflows/ci.yml` roda `npm ci`, `npm run typecheck` e `npm test`.
+
+Banco Supabase — voce NAO precisa abrir SQL Editor no site (automatizado aqui):
+1. Supabase → Project Settings → Database → Connection string → URI (senha do postgres).
+2. Copie `.env.example` para `.env` na pasta do projeto e cole uma linha: DATABASE_URL=postgresql://...
+3. No terminal na pasta do projeto: `npm ci` e depois `npm run db:migrate` (ou `npm run supabase:apply`).
+   Isto aplica em ordem os ficheiros listados em `sql/migrations.manifest.json` (colunas professor, RLS, conversao dias/estagiarios para text[]).
+4. GitHub Actions: secret `DATABASE_URL` + workflow "Apply Supabase migrations" (manual).
+
+Os SQL soltos na raiz (migracao_*.sql, supabase_saas_seguro.sql) sao legado; o pacote automático cobre o mesmo no manifest.
+
+Observacao:
+- DDL nunca pode usar so a anon key do navegador; por isso a automacao usa a senha Postgres (DATABASE_URL).
+
+Observabilidade basica (`src/legacy/observability.js`):
+  - captura de erros globais e promessas rejeitadas;
+  - envio opcional para Sentry quando `sentryDsn` estiver configurado em `config.js`.

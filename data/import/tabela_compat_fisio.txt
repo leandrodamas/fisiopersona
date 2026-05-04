@@ -1,0 +1,2636 @@
+# Gerado/normalizado por scripts/normalize_extracted_compat.py + scripts/compat_tabela_txt_to_json.py
+
+CÓDIGO: 0302040013  
+DESCRIÇÃO: Atendimento fisioterapêutico em pacientes com transtorno respiratórios com 
+complicações sistêmicas 
+CID 10 
+E100 Diabetes Mellitus insulino-dependente - com coma 
+E101 Diabetes Mellitus insulino-dependente - com cetoacidose 
+E102 Diabetes Mellitus insulino-dependente - com complicações renais 
+E103 Diabetes Mellitus insulino-dependente - com complicações oftálmicas 
+E104 Diabetes Mellitus insulino-dependente - com complicações neurológicas 
+E105 Diabetes Mellitus insulino-dependente - com complicações circulatórias 
+periféricas 
+E106 Diabetes Mellitus insulino-dependente - com outras complicações 
+especificadas 
+E107 Diabetes Mellitus insulino-dependente - com complicações múltiplas 
+E108 Diabetes Mellitus insulino-dependente - com complicações não especificadas 
+E109 Diabetes Mellitus insulino-dependente - sem complicações 
+E140 Diabetes Mellitus não especificado - com coma 
+E141 Diabetes Mellitus não especificado - com cetoacidose 
+E142 Diabetes Mellitus não especificado - com complicações renais 
+E143 Diabetes Mellitus não especificado - com complicações oftálmicas 
+E144 Diabetes Mellitus não especificado - com complicações neurológicas 
+E145 Diabetes Mellitus não especificado - com complicações circulatórias periféricas 
+E146 Diabetes Mellitus não especificado - com outras complicações especificadas 
+E147 Diabetes Mellitus não especificado - com complicações múltiplas 
+E148 Diabetes Mellitus não especificado - com complicações não especificadas 
+E149 Diabetes Mellitus não especificado - sem complicações 
+E240 Síndrome de Cushing dependente da hipófise 
+E241 Síndrome de Nelson 
+E242 Síndrome de Cushing induzida por droga 
+E243 Síndrome do Acth ectópico 
+E244 Síndrome de pseudo-Cushing induzida pelo álcool 
+E248 Outra síndrome de Cushing 
+E249 Síndrome de Cushing não especificada 
+E640 Seqüelas de desnutrição protéico-calórica 
+E641 Seqüelas da deficiência de vitamina a 
+E642 Seqüelas da deficiência de vitamina c 
+E643 Seqüelas do raquitismo 
+E648 Seqüelas de outras deficiências nutricionais 
+E649 Seqüelas de deficiência nutricional não especificada 
+E660 Obesidade devida a excesso de calorias 
+E661 Obesidade induzida por drogas 
+E662 Obesidade extrema com hipoventilação alveolar 
+E668 Outra obesidade 
+E669 Obesidade não especificada 
+E840 Fibrose cística com manifestações pulmonares 
+E841 Fibrose cística com manifestações intestinais 
+E848 Fibrose cística com outras manifestações 
+E849 Fibrose cística não especificada 
+J120 Pneumonia devida a adenovírus 
+J121 Pneumonia devida a vírus respiratório sincicial 
+J122 Pneumonia devida à parainfluenza 
+J128 Outras pneumonias virais 
+J129 Pneumonia viral não especificada 
+J13 Pneumonia devida a Streptococcus Pneumoniae 
+J14 Pneumonia devida a Haemophilus Infuenzae 
+J150 Pneumonia devida à Klebsiella Pneumoniae 
+J151 Pneumonia devida a pseudomonas 
+J152 Pneumonia devida a Staphylococcus 
+J153 Pneumonia devida a Streptococcus do grupo B 
+J154 Pneumonia devida a outros estreptococos 
+J155 Pneumonia devida a Escherichia Coli 
+J156 Pneumonia devida a outras bactérias aeróbicas gram-negativas 
+J157 Pneumonia devida a Mycoplasma Pneumoniae 
+J158 Outras pneumonias bacterianas 
+J159 Pneumonia bacteriana não especificada 
+J160 Pneumonia devida a clamídias 
+J168 Pneumonia devida a outros microorganismos infecciosos especificados 
+J170 Pneumonia em doenças bacterianas classificadas em outra parte 
+J171 Pneumonia em doenças virais classificadas em outra parte 
+J172 Pneumonia em micoses classificadas em outra parte 
+J173 Pneumonia em doenças parasitárias classificadas em outra parte 
+J178 Pneumonia em outras doenças classificadas em outra parte 
+J180 Broncopneumonia não especificada 
+J181 Pneumonia lobar não especificada 
+J182 Pneumonia hipostática não especificada 
+J188 Outras pneumonias devidas a microorganismos não especificados 
+J189 Pneumonia não especificada 
+J200 Bronquite aguda devida a Mycoplasma Pneumoniae 
+J201 Bronquite aguda devida a Haemophilus Influenzae 
+J202 Bronquite aguda devida a estreptococos 
+J203 Bronquite aguda devida a vírus Coxsackie 
+J204 Bronquite aguda devida a vírus parainfluenza 
+J205 Bronquite aguda devida a vírus sincicial respiratório 
+J206 Bronquite aguda devida a rinovírus 
+J207 Bronquite aguda devida a echovírus 
+J208 Bronquite aguda devida a outros microorganismos especificados 
+J209 Bronquite aguda não especificada 
+J210 Bronquiolite aguda devida a vírus sincicial respiratório 
+J218 Bronquiolite aguda devida a outros microorganismos especificados 
+J219 Bronquite aguda não especificada 
+J22 Infecções agudas não especificada das vias aéreas inferiores 
+J320 Sinusite maxilar crônica 
+J321 Sinusite frontal crônica 
+J322 Sinusite etmoidal crônica 
+J323 Sinusite esfenoidal crônica 
+J324 Pansinusite crônica 
+J328 Outras sinusites crônicas 
+J329 Sinusite crônica não especificada 
+J330 Pólipo da cavidade nasal 
+J331 Degeneração polipóide do seio paranasal 
+J338 Outros pólipos do seio paranasal 
+J339 Pólipo nasal não especificado 
+J40 Bronquite não especificada como aguda ou crônica 
+J410 Bronquite crônica simples 
+J411 Bronquite crônica mucopurulenta 
+J418 Bronquite crônica mista, simples e mucopurulenta 
+J430 Síndrome de MacLeod 
+J431 Enfisema panlobular 
+J432 Enfisema centrolobular 
+J438 Outras formas de enfisema 
+J439 Enfisema não especificado 
+J440 Doença pulmonar obstrutiva crônica com infecção respiratória aguda do trato 
+respiratório inferior 
+J441 Doença pulmonar obstrutiva crônica com exacerbação aguda não especificada 
+J448 Outras formas especificadas de doença pulmonar obstrutiva crônica 
+J449 Doença pulmonar obstrutiva crônica não especificada 
+J450 Asma predominantemente alérgica 
+J451 Asma não-alérgica 
+J458 Asma mista 
+J459 Asma não especificada 
+J46 Estado de mal asmático 
+J60 Pneumoconiose dos mineiros de carvão 
+J61 Pneumoconiose devida a amianto [asbesto] e outras fibras minerais 
+J620 Pneumoconiose devida a pó de talco 
+J628 Pneumoconiose devida a outras poeiras que contenham sílica 
+J630 Aluminose (do pulmão) 
+J631 Fibrose (do pulmão) causada por bauxita 
+J632 Beriliose 
+J633 Fibrose (do pulmão) causada por grafite 
+J634 Siderose 
+J635 Estanose 
+J638 Pneumoconiose devida a outras poeira inorgânicas especificados 
+J64 Pneumoconiose não especificada 
+J65 Pneumoconiose associada com tuberculose 
+J660 Bissinose 
+J661 Doença dos cardadores de linho 
+J662 Canabinose 
+J668 Doenças das vias aéreas devida a outras poeiras orgânicas específicas 
+J670 Pulmão de fazendeiro 
+J671 Bagaçose 
+J672 Pulmão dos criadores de pássaros 
+J673 Suberose 
+J674 Pulmão dos trabalhadores do malte 
+J675 Pulmão dos que trabalham com cogumelos 
+J676 Pulmão dos cortadores de casca do bordo 
+J677 Doença pulmonar devida aos sistemas de ar condicionado e de umidificação do 
+ar 
+J678 Pneumonites de hipersensibilidade, devidas a outras poeiras orgânicas 
+J679 Pneumonite de hipersensibilidade devida a poeira orgânica não especificada 
+J680 Bronquite e pneumonite devida a produtos químicos, gases, fumaças e vapores 
+J681 Edema pulmonar devido a produtos químicos, gases, fumaças e vapores 
+J682 Inflamação das vias aéreas superiores devida a produtos químicos, gases, 
+fumaças e vapores, não classificada em outra parte 
+J683 Outras afecções respiratórias agudas e subagudas devidas a produtos químicos, 
+gases, fumaças e vapores 
+J684 Afecções respiratórias crônicas devidas a produtos químicos, gases, fumaças e 
+vapores 
+J688 Outras afecções respiratórias devida a produtos químicos, gases, fumaças e 
+vapores 
+J689 Afecção respiratória não especificada devida a produtos químicos, gases, 
+fumaça e vapores 
+J690 Pneumonite devida a alimento ou vômito 
+J691 Pneumonite devida a óleos e essências 
+J698 Pneumonite devida a outros sólidos e líquidos 
+J700 Manifestações pulmonares agudas devidas à radiação 
+J701 Manifestações pulmonares crônicas e outras, devidas a radiação 
+J702 Transtornos pulmonares intersticiais agudos, induzidos por droga 
+J703 Transtornos pulmonares intersticiais crônicos induzidos por droga 
+J704 Transtornos pulmonar intersticial não especificado induzido por droga 
+J708 Afecções respiratórias devidas a outros agentes externos especificados 
+J709 Afecções respiratórias devidas a agentes externos não especificados 
+J80 Síndrome do desconforto respiratório do adulto 
+J81 Edema pulmonar, não especificado de outra forma 
+J82 Eosinofilia pulmonar, não classificada em outra parte 
+J840 Afecções alveolares e parieto-alveolares 
+J841 Outras doenças pulmonares intersticiais com fibrose 
+J848 Outras doenças pulmonares intersticiais especificadas 
+J849 Doença pulmonar intersticial não especificadas 
+J850 Gangrena e necrose do pulmão 
+J851 Abscesso do pulmão com pneumonia 
+J852 Abscesso do pulmão sem pneumonia 
+J853 Abscesso do mediastino 
+J860 Piotórax com fístula 
+J869 Piotórax sem fístula 
+J90 Derrame pleural não classificado em outra parte 
+J91 Derrame pleural em afecções classificadas em outra parte 
+J920 Placas pleurais com presença de amianto [asbesto] 
+J929 Placas pleurais sem presença de amianto [asbesto] 
+J930 Pneumotórax de tensão, espontâneo 
+J931 Outras formas de pneumotórax espontâneo 
+J938 Outros tipos de pneumotórax, especificados 
+J939 Pneumotórax não especificado 
+J940 Derrame quiloso ou quiliforme 
+J941 Fibrotórax 
+J942 Hemotórax 
+J948 Outras afecções pleurais especificadas 
+J949 Afecção pleural não especificada 
+J950 Mau funcionamento de traqueostomia 
+J951 Insuficiência pulmonar aguda subsequente a cirurgia torácica 
+J952 Insuficiência pulmonar aguda subsequente a cirurgia não torácica 
+J953 Insuficiência pulmonar crônica pós-cirúrgica 
+J954 Síndrome de mendelson 
+J955 Estenose subglótica pós-procedimento 
+J958 Outros transtornos respiratórios pós-procedimentos 
+J959 Transtornos respiratórios pós-procedimentos não especificados 
+J960 Insuficiência respiratória aguda 
+J961 Insuficiência respiratória crônica 
+J969 Insuficiência respiratória não especificada 
+J980 Outras doenças dos brônquios não classificadas em outra parte 
+J981 Colapso pulmonar 
+J982 Enfisema intersticial 
+J983 Enfisema compensatório 
+J984 Outros transtornos pulmonares 
+J985 Doenças do mediastino não classificadas em outra parte 
+J986 Transtornos do diafragma 
+J988 Outros transtornos respiratórios especificados 
+J989 Transtorno respiratório não especificados 
+J990 Doença pulmonar reumatóide 
+J991 Transtornos respiratórios em outras doenças sistêmicas do tecido conjuntivo 
+classificadas em outra parte 
+J998 Transtornos respiratórios em outras doenças classificadas em outra parte 
+ 
+ 
+ 
+ 
+ 
+CÓDIGO: 0302040021  
+DESCRIÇÃO: Atendimento fisioterapêutico em pacientes com transtorno respiratórios sem 
+complicações sistêmicas 
+CID 10 
+IGUAL_ANTERIOR
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CÓDIGO: 0302050019  
+DESCRIÇÃO: Atendimento Fisioterapêutico em pacientes no pré e pós operatório nas 
+disfunções musculo esqueléticas (FISIO ORTO) 
+CID 10 
+S850 Traumatismo da artéria poplítea 
+S851 Traumatismo da artéria tibial (anterior) (posterior) 
+S857 Traumatismo de múltiplos vasos sangüíneos ao nível da perna 
+S870 Traumatismo por esmagamento do joelho 
+S878 Traumatismo por esmagamento de outra parte e de partes não especificadas da 
+perna 
+S880 Amputação traumática ao nível do joelho 
+S881 Amputação traumática entre o joelho e o tornozelo 
+S889 Amputação traumática da perna ao nível não especificado 
+S890 Traumatismos múltiplos da perna 
+S898 Outros traumatismos especificados da perna 
+S899 Traumatismo não especificado da perna 
+S921 Fratura do astrágalo 
+S927 Fraturas múltiplas do pé 
+S929 Fratura do pé não especificada 
+S950 Traumatismo da artéria dorsal do pé 
+S951 Traumatismo da artéria plantar do pé 
+S958 Traumatismo de outros vasos sangüíneos ao nível do tornozelo e do pé 
+S978 Lesão por esmagamento de outras partes do tornozelo e do pé 
+S980 Amputação traumática do pé ao nível do tornozelo 
+T136 Amputação traumática de membro inferior, nível não especificado 
+T796 Isquemia muscular traumática 
+T808 Outras complicações subseqüentes à infusão, transfusão e injeção terapêutica 
+T817 Complicações vasculares subseqüentes a um procedimento não classificado 
+em outra parte 
+T840 Complicação mecânica de prótese articular interna 
+T841 Complicação mecânica de dispositivo de fixação interna de ossos dos 
+membros 
+T842 Complicação mecânica de dispositivo de fixação interna de outros ossos 
+T843 Complicação mecânica de outros dispositivos, implantes e enxertos ósseos 
+T844 Complicação mecânica de outros dispositivos, implantes e enxertos 
+ortopédicos internos 
+T845 Infecção e reação inflamatória devidas à prótese articular interna 
+T848 Outras complicações de dispositivos protéticos, implantes e enxertos 
+ortopédicos internos 
+T849 Complicação não especificada de dispositivo protético, implante e enxerto 
+ortopédicos internos 
+T871 Complicações de reimplante (de parte) de extremidade inferior 
+T931 Seqüelas de fratura do fêmur 
+T932 Seqüelas de outras fraturas do membro inferior 
+T933 Seqüelas de luxação, entorse e distensão do membro inferior 
+T935 Seqüelas de traumatismo de músculo e tendão do membro inferior 
+T936 Seqüelas de esmagamento e amputação traumática do membro inferior 
+T953 Seqüelas de queimadura, corrosão e geladura do membro inferior 
+T982 Seqüelas de algumas complicações precoces de traumatismos 
+Y883 
+Seqüelas de reação anormal em paciente ou complicação tardia causada por 
+procedimento médico e cirúrgico sem menção de acidente durante o 
+procedimento 
+A300 Hanseníase [lepra] indeterminada 
+A301 Hanseníase [lepra] tuberculóide 
+A302 Hanseníase [lepra] tuberculóide borderline 
+A303 Hanseníase [lepra] dimorfa 
+A304 Hanseníase [lepra] lepromatosa borderline 
+A305 Hanseníase [lepra] lepromatosa 
+A308 Outras formas de hanseníase [lepra] 
+A309 Hanseníase [lepra] não especificada 
+A480 Gangrena gasosa 
+B902 Seqüelas de tuberculose óssea e das articulações 
+B91 Seqüelas de poliomielite 
+B92 Seqüelas de hanseníase [lepra] 
+C402 Neoplasia maligna dos ossos longos dos membros inferiores 
+C403 Neoplasia maligna dos ossos curtos dos membros inferiores 
+C408 Neoplasia maligna dos ossos e cartilagens articulares dos membros com lesão 
+invasiva 
+C409 Neoplasia maligna dos ossos e cartilagens articulares de membro não 
+especificado 
+C414 Neoplasia maligna dos ossos da pelve, sacro e cóccix 
+C418 Neoplasia maligna dos ossos e das cartilagens articulares com lesão invasiva 
+C419 Neoplasia maligna dos ossos e cartilagens articulares, não especificados 
+C437 Melanoma maligno do membro inferior, incluindo quadril 
+C447 Neoplasia maligna da pele do membro inferior, incluindo quadril 
+C476 Neoplasia maligna dos nervos periféricos do tronco 
+C488 Neoplasia maligna dos tecidos moles do retroperitônio e do peritônio com 
+lesão invasiva 
+C492 Neoplasia maligna do tecido conjuntivo e tecidos moles dos membros 
+inferiores, incluindo quadril 
+C765 Neoplasia maligna do membro inferior 
+D163 Neoplasia benigna dos ossos curtos dos membros inferiores 
+G000 Meningite por Haemophilus 
+G001 Meningite pneumocócica 
+G002 Meningite estreptocócica 
+G003 Meningite estafilocócica 
+G008 Outras meningites bacterianas 
+G009 Meningite bacteriana não especificada 
+G01 Meningite em doenças bacterianas classificadas em outra parte 
+G020 Meningite em doenças virais classificadas em outra parte 
+G021 Meningite em micoses 
+G028 Meningite em outras doenças infecciosas e parasitárias classificadas em outra 
+parte 
+G030 Meningite não-piogênica 
+G031 Meningite crônica 
+G032 Meningite recorrente benigna [Mollaret] 
+G038 Meningite devida a outras causas especificadas 
+G039 Meningite não especificada 
+G040 Encefalite aguda disseminada 
+G041 Paraplegia espástica tropical 
+G042 Meningoencefalite e meningomielite bacterianas não classificadas em outra 
+parte 
+G048 Outras encefalites, mielites e encefalomielites 
+G049 Encefalite, mielite e encefalomielite não especificada 
+G050 Encefalite, mielite e encefalomielite em doenças bacterianas classificadas em 
+outra parte 
+G051 Encefalite, mielite e encefalomielite em doenças virais classificadas em outra 
+parte 
+G052 Encefalite, mielite e encefalomielite em outras doenças infecciosas e 
+parasitárias classificadas em outra parte 
+G058 Encefalite, mielite e encefalomielite em outras doenças classificadas em outra 
+parte 
+G060 Abscesso e granuloma intracranianos 
+G061 Abscesso e granuloma intra-raquidianos 
+G062 Abscesso extradural e subdural não especificados 
+G07 Abscesso e granuloma intracranianos e intraspinais em doenças classificadas 
+em outra parte 
+G08 Flebite e tromboflebite intracranianas e intra-raquidianas 
+G09 Seqüelas de doenças inflamatórias do sistema nervoso central 
+G10 Doença de Huntington 
+G20 Doença de Parkinson 
+G210 Síndrome maligna dos neurolépticos 
+G211 Outras formas de parkinsonismo secundário induzido por drogas 
+G212 Parkinsonismo secundário devido a outros agentes externos 
+G213 Parkinsonismo pós-encefalítico 
+G218 Outras formas de parkinsonismo secundário 
+G219 Parkinsonismo secundário não especificado 
+G22 Parkinsonismo em doenças classificadas em outra parte 
+G230 Doença de Hallervorden-Spatz 
+G231 Oftalmoplegia supranuclear progressiva [Steele-Richardson-Olszewski] 
+G232 Degeneração estrionígrica 
+G238 Outras doenças degenerativas especificadas dos gânglios da base 
+G239 Doença degenerativa dos gânglios da base, não especificada 
+G240 Distonia induzida por drogas 
+G241 Distonia familiar idiopática 
+G242 Distonia não-familiar idiopática 
+G243 Torcicolo espasmódico 
+G244 Distonia orofacial idiopática 
+G245 Blefaroespasmo 
+G248 Outras distonias 
+G249 Distonia não especificada 
+G250 Tremor essencial 
+G251 Tremor induzido por drogas 
+G252 Outras formas especificadas de tremor 
+G253 Mioclonia 
+G254 Coréia induzida por droga 
+G255 Outras formas de coréia 
+G256 Tiques induzidos por droga e outros tipos de origem orgânica 
+G258 Outras doenças extrapiramidais e transtornos dos movimentos, especificados 
+G259 Doenças extrapiramidais e transtornos dos movimentos, não especificados 
+G26 Doenças extrapiramidais e transtornos dos movimentos em doenças 
+classificadas em outra parte 
+G300 Doença de alzheimer de início precoce 
+G301 Doença de alzheimer de início tardio 
+G308 Outras formas de doença de Alzheimer 
+G309 Doença de alzheimer não especificada 
+G400 Epilepsia e síndromes epilépticas idiopáticas definidas por sua localização 
+(focal) (parcial) com crises de início focal 
+G401 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais simples 
+G402 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais complexas 
+G403 Epilepsia e síndromes epilépticas generalizadas idiopáticas 
+G404 Outras epilepsias e síndromes epilépticas generalizadas 
+G405 Síndromes epilépticas especiais 
+G406 Crise de grande mal, não especificada (com ou sem pequeno mal) 
+G407 Pequeno mal não especificado, sem crises de grande mal 
+G408 Outras epilepsias 
+G409 Epilepsia, não especificada 
+G410 Estado de grande mal epiléptico 
+G411 Estado de pequeno mal epiléptico 
+G412 Estado de mal epiléptico parcial complexo 
+G418 Outros estados de mal epiléptico 
+G419 Estado de mal epiléptico, não especificado 
+G500 Nevralgia do trigêmeo 
+G501 Dor facial atípica 
+G508 Outros transtornos do nervo trigêmeo 
+G509 Transtorno não especificado do nervo trigêmeo 
+G510 Paralisia de bell 
+G511 Ganglionite geniculada 
+G512 Síndrome de melkersson 
+G513 Espasmo hemifacial clônico 
+G514 Mioquimia facial 
+G518 Outros transtornos do nervo facial 
+G519 Transtorno não especificado do nervo facial 
+G541 Transtornos do plexo lombossacral 
+G544 Transtornos das raízes lombossacras não classificadas em outra parte 
+G550 Compressões das raízes e dos plexos nervosos em doenças neoplásicas 
+G551 Compressões das raízes e dos plexos nervosos em transtornos dos discos 
+intervertebrais 
+G552 Compressões das raízes e dos plexos nervosos na espondilose 
+G553 Compressões das raízes e dos plexos nervosos em outras dorsopatias 
+G558 Compressões das raízes e dos plexos nervosos em outras doenças classificadas 
+em outra parte 
+G560 Síndrome do túnel do carpo 
+G561 Outras lesões do nervo mediano 
+G562 Lesões do nervo cubital [ulnar] 
+G563 Lesão do nervo radial 
+G564 Causalgia 
+G568 Outras mononeuropatias dos membros superiores 
+G569 Mononeuropatia dos membros superiores, não especificada 
+G575 Síndrome do túnel do tarso 
+G576 Lesão do nervo plantar 
+G578 Outras mononeuropatias dos membros inferiores 
+G587 Mononeurite múltipla 
+G588 Outras mononeuropatias especificadas 
+G589 Mononeuropatia não especificada 
+G610 Síndrome de guillain-barré 
+G611 Neuropatia sérica 
+G618 Outras polineuropatias inflamatórias 
+G619 Polineuropatia inflamatória não especificada 
+G800 Paralisia cerebral quadriplágica espástica 
+G801 Paralisia cerebral diplégica espástica 
+G802 Paralisia cerebral hemiplégica espástica 
+G808 Outras formas de paralisia cerebral 
+G809 Paralisia cerebral não especificada 
+G810 Hemiplegia flácida 
+G811 Hemiplegia espástica 
+G819 Hemiplegia não especificada 
+G820 Paraplegia flácida 
+G821 Paraplegia espástica 
+G822 Paraplegia não especificada 
+G823 Tetraplegia flácida 
+G824 Tetraplegia espástica 
+G825 Tetraplegia não especificada 
+G831 Monoplegia do membro inferior 
+G910 Hidrocefalia comunicante 
+G911 Hidrocefalia obstrutiva 
+G912 Hidrocefalia de pressão normal 
+G913 Hidrocefalia pós-traumática não especificada 
+G918 Outras formas de hidrocefalia 
+G919 Hidrocefalia não especificada 
+I739 Doenças vasculares periféricas não especificada 
+I743 Embolia e trombose de artérias dos membros inferiores 
+I745 Embolia e trombose da artéria ilíaca 
+I802 Flebite e tromboflebite de outros vasos profundos dos membros inferiores 
+I830 Varizes dos membros inferiores com úlcera 
+M058 Outras artrites reumatóides soro-positivas 
+M059 Artrite reumatóide soro-positiva não especificada 
+M060 Artrite reumatóide soro-negativa 
+M061 Doença de Still do adulto 
+M064 Poliartropatia inflamatória 
+M068 Outras artrites reumatóides especificadas 
+M069 Artrite reumatóide não especificada 
+M071 Artrite mutilante 
+M080 Artrite reumatóide juvenil 
+M083 Poliartrite juvenil (soro-negativa) 
+M088 Outras artrites juvenis 
+M089 Artrite juvenil não especificada 
+M100 Gota idiopática 
+M101 Gota induzida por chumbo 
+M102 Gota induzida por drogas 
+M103 Gota devida à disfunção renal 
+M104 Outra gota secundária 
+M109 Gota, não especificada 
+M110 Doença por deposição de hidroxiapatita 
+M111 Condrocalcinose familiar 
+M112 Outras condrocalcinoses 
+M118 Outras artropatias especificadas por deposição de cristais 
+M119 Artropatia por deposição de cristais, não especificada 
+M120 Artropatia pós-reumática crônica [Jaccoud] 
+M122 Sinovite vilonodular (pigmentada) 
+M125 Artropatia traumática 
+M130 Poliartrite não especificada 
+M131 Monoartrites não classificadas em outra parte 
+M138 Outras artrites especificadas 
+M139 Artrite não especificada 
+M141 Artropatia por depósito de cristais em outras doenças metabólicas classificadas 
+em outra parte 
+M142 Artropatia diabética 
+M146 Artropatia neuropática 
+M170 Gonartrose primária bilateral 
+M171 Outras gonartroses primárias 
+M172 Gonartrose pós-traumática bilateral 
+M173 Outras gonartroses pós-traumática 
+M174 Outras gonartroses secundárias bilaterais 
+M175 Outras gonartroses secundárias 
+M179 Gonartrose não especificada 
+M190 Artrose primária de outras articulações 
+M191 Artrose pós-traumática de outras articulações 
+M192 Outras artroses secundárias 
+M210 Deformidade em valgo não classificada em outra parte 
+M211 Deformidade em varo não classificada em outra parte 
+M212 Deformidade em flexão 
+M213 Mão (pulso) ou pé pendente (adquirido) 
+M214 Pé chato [pé plano] (adquirido) 
+M215 Mão e pé em garra e mão e pé tortos adquiridos 
+M216 Outras deformidades adquiridas do tornozelo e do pé 
+M217 Desigualdade (adquirida) do comprimento dos membros 
+M218 Outras deformidades adquiridas especificadas dos membros 
+M235 Instabilidade crônica do joelho 
+M241 Outros transtornos das cartilagens articulares 
+M242 Transtornos de ligamentos 
+M245 Contratura articular 
+M246 Ancilose articular 
+M247 Protusão do acetábulo 
+M256 Rigidez articular não classificada em outra parte 
+M622 Infarto isquêmico do músculo 
+M623 Síndrome de imobilidade (paraplégica) 
+M624 Contratura de músculo 
+M625 Perda e atrofia muscular não classificadas em outra parte 
+M629 Transtorno muscular não especificado 
+M671 Outra contratura de tendão (bainha) 
+M673 Sinovite transitória 
+M720 Fibromatose de fáscia palmar [Dupuytren] 
+M721 Coxins interfalângicos (nó dos dedos) 
+M722 Fibromatose da fáscia plantar 
+M724 Fibromatose pseudossarcomatosa 
+M728 Outros transtornos fibroblásticos 
+M729 Transtorno fibroblástico não especificado 
+M768 Outras entesopatias do membro inferior, excluindo o pé 
+M863 Osteomielite crônica multifocal 
+M864 Osteomielite crônica com seio drenante 
+M865 Outra osteomielite crônica hematogênica 
+M866 Outra osteomielite crônica 
+M869 Osteomielite não especificada 
+M870 Necrose asséptica idiopática do osso 
+M871 Osteonecrose devida a drogas 
+M872 Osteonecrose devida a traumatismo anterior 
+M873 Outras osteonecroses secundárias 
+M878 Outras osteonecroses 
+M879 Osteonecrose não especificada 
+M911 Osteocondrose juvenil da cabeça do fêmur [Legg-Calvé-Perthes] 
+M912 Coxa plana 
+M918 Outras osteocondroses juvenis do quadril e da pelve 
+M939 Osteocondropatias, não especificada 
+M958 Outras deformidades adquiridas especificadas do sistema osteomuscular 
+M959 Deformidade adquirida do sistema osteomuscular não especificada 
+M960 Pseudo-artrose após fusão ou artrodese 
+M966 Fratura de osso subsequente a implante ortopédico, prótese articular ou placa 
+óssea 
+M968 Outros transtornos osteomusculares pós-procedimentos 
+M969 Transtorno osteomuscular não especificado pós-procedimento 
+M998 Outras lesões biomecânicas 
+M999 Lesão biomecânica não especificada 
+O267 Subluxação da sínfise (púbica) na gravidez, parto e puerpério 
+O716 Lesão obstétrica das articulações e dos ligamentos pélvicos 
+Q050 Espinha bífida cervical com hidrocefalia 
+Q051 Espinha bífida torácica com hidrocefalia 
+Q052 Espinha bífida lombar com hidrocefalia 
+Q053 Espinha bífida sacra com hidrocefalia 
+Q054 Espinha bífida não especificada, com hidrocefalia 
+Q055 Espinha bífida cervical, sem hidrocefalia 
+Q056 Espinha bífida torácica, sem hidrocefalia 
+Q057 Espinha bífida lombar, sem hidrocefalia 
+Q058 Espinha bífida sacra, sem hidrocefalia 
+Q059 Espinha bífida não especificada 
+Q650 Luxação congênita unilateral do quadril 
+Q651 Luxação congênita bilateral do quadril 
+Q652 Luxação congênita não especificada do quadril 
+Q653 Subluxação congênita unilateral do quadril 
+Q654 Subluxação congênita bilateral do quadril 
+Q655 Subluxação congênita não especificada do quadril 
+Q656 Quadril instável 
+Q658 Outras deformidades congênitas do quadril 
+Q659 Deformidade congênita não especificada do quadril 
+Q660 Pé torto eqüinovaro 
+Q661 Pé torto calcaneovaro 
+Q662 Metatarso varo 
+Q663 Outras deformidades congênitas dos pés em varo 
+Q664 Pé torto calcaneovalgo 
+Q665 Pé chato congênito 
+Q666 Outras deformidades congênitas dos pés em valgo 
+Q667 Pé cavo 
+Q668 Outras deformidades congênitas do pé 
+Q669 Deformidade congênita não especificada do pé 
+Q680 Deformidade congênita do músculo esternocleidomastoideu 
+Q682 Deformidade congênita do joelho 
+Q688 Outras deformidades osteomusculares congênitas 
+Q722 Ausência congênita da perna e do pé 
+Q723 Ausência congênita do pé e de artelho(s) 
+Q724 Defeito por redução longitudinal da tíbia 
+Q725 Defeito por redução longitudinal da tíbia 
+Q726 Defeito por redução longitudinal do perônio [fíbula] 
+Q727 Pé bífido 
+Q728 Outros defeitos por redução do(s) membro(s) inferior(es) 
+Q729 Defeito não especificado por redução do membro inferior 
+Q741 Malformação congênita do joelho 
+Q742 Outras malformações congênitas do(s) membro(s) inferiores, inclusive da 
+cintura pélvica 
+Q743 Artrogripose congênita múltipla 
+Q748 Outras malformações congênitas especificadas de membro(s) 
+Q749 Malformações congênitas não especificadas de membro(s) 
+Q788 Outras osteocondrodisplasias especificadas 
+R02 Gangrena não classificada em outra parte 
+S321 Fratura do sacro 
+S323 Fratura do ílio 
+S324 Fratura do acetábulo 
+S325 Fratura do púbis 
+S327 Fraturas múltiplas de coluna lombar e da pelve 
+S328 Fratura de outras partes da coluna lombossacra e da pelve e de partes não 
+especificadas 
+S332 Luxação das articulações sacroilíaca e sacrococcígea 
+S333 Luxação de outras partes e das não especificadas da coluna lombar e da pelve 
+S334 Ruptura traumática da sínfise púbica 
+S336 Entorse e distensão da articulação sacroilíaca 
+S423 Fratura da diáfise do úmero 
+S529 Fratura do antebraço, parte não especificada 
+S660 Traumatismo do músculo flexor longo e tendão do polegar ao nível do punho e 
+da mão 
+S661 Traumatismo do músculo flexor e tendão de outro dedo ao nível do punho e da 
+mão 
+S662 Traumatismo do músculo extensor e tendão do polegar ao nível do punho e da 
+mão 
+S663 Traumatismo do músculo extensor e tendão de outro dedo ao nível do punho e 
+da mão 
+S664 Traumatismo do músculo intrínseco e tendão do polegar ao nível do punho e 
+da mão 
+S665 Traumatismo do músculo intrínseco e tendão de outro dedo ao nível do punho 
+e da mão 
+S666 Traumatismo de músculos flexores e tendões múltiplos ao nível do punho e da 
+mão 
+S667 Traumatismo de músculos extensores e tendões múltiplos ao nível do punho e 
+da mão 
+S669 Traumatismo de músculo e tendão não especificado ao nível do punho e da 
+mão 
+S670 Lesão por esmagamento do polegar e de outro(s) dedo(s) 
+S678 Lesão por esmagamento de outras partes e das não especificadas do punho e 
+da mão 
+S680 Amputação traumática do polegar (completa) (parcial) 
+S681 Amputação traumática de um outro dedo apenas (completa) (parcial) 
+S682 Amputação traumática de dois ou mais dedos somente (completa) (parcial) 
+S683 Amputação traumática combinada de (partes de) dedo(s) associada a outras 
+partes do punho e da mão 
+S684 Amputação traumática da mão ao nível do punho 
+S688 Amputação traumática de outras partes do punho e da mão 
+S689 Amputação traumática do punho e da mão, nível não especificado 
+S697 Traumatismos múltiplos do punho e da mão 
+S698 Outros traumatismos especificados do punho e da mão 
+S699 Traumatismo não especificados do punho e da mão 
+S701 Contusão da coxa 
+S720 Fratura do colo do fêmur 
+S721 Fratura pertrocantérica 
+S722 Fratura subtrocantérica 
+S723 Fratura da diáfise do fêmur 
+S724 Fratura da extremidade distal do fêmur 
+S727 Fraturas múltiplas do fêmur 
+S728 Fraturas de outras partes do fêmur 
+S729 Fratura do fêmur, parte não especificada 
+S730 Luxação da articulação do quadril 
+S731 Entorse e distensão do quadril 
+S750 Traumatismo da artéria femural 
+S757 Traumatismo de múltiplos vasos sangüíneos ao nível do quadril e da coxa 
+S770 Lesão por esmagamento do quadril 
+S771 Lesão por esmagamento da coxa 
+S772 Lesão por esmagamento do quadril e da coxa 
+S780 Amputação traumática na articulação do quadril 
+S781 Amputação traumática localizada entre o joelho e o quadril 
+S789 Amputação traumática do quadril e coxa nível não especificado 
+S797 Traumatismos múltiplos do quadril e da coxa 
+S820 Fratura da rótula [patela] 
+S821 Fratura da extremidade proximal da tíbia 
+S822 Fratura da diáfise da tíbia 
+S823 Fratura da extremidade distal da tíbia 
+S824 Fratura do perônio [fíbula] 
+S827 Fraturas múltiplas da perna 
+S829 Fratura da perna, parte não especificada 
+S831 Luxação do joelho 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CÓDIGO: 0302050027 
+DESCRIÇÃO: Atendimento fisioterapêutico nas alterações motoras (FISIO ORTO) 
+CID 10 
+M959 Deformidade adquirida do sistema osteomuscular não especificada 
+M960 Pseudo-artrose após fusão ou artrodese 
+M961 Síndrome pós-laminectomia não classificada em outra parte 
+M962 Cifose pós-radiação 
+M963 Cifose pós-laminectomia 
+M964 Lordose pós-cirúrgica 
+M965 Escoliose pós-radiação 
+M966 Fratura de osso subsequente a implante ortopédico, prótese articular ou placa 
+óssea 
+M968 Outros transtornos osteomusculares pós-procedimentos 
+M969 Transtorno osteomuscular não especificado pós-procedimento 
+M990 Disfunção segmentar e somática 
+M991 Complexo de subluxação (vertebral) 
+M992 Estenose de subluxação do canal medular 
+M993 Estenose óssea do canal medular 
+M994 Estenose de tecido conjuntivo do canal medular 
+M995 Estenose de disco intervertebral do canal medular 
+M996 Estenose óssea e subluxação dos forames intervertebrais 
+M997 Estenose de tecido conjuntivo e do disco dos forames intervertebrais 
+M998 Outras lesões biomecânicas 
+M999 Lesão biomecânica não especificada 
+S936 Entorse e distensão de outras partes e de partes não especificadas do pé 
+M022 Artropatia pós-imunização 
+M023 Doença de Reiter 
+M028 Outras artropatias reacionais 
+M029 Artropatia reacional não especificada 
+M030 Artrite pós-meningocócica 
+M031 Artropatia pós-infecciosa na sífilis 
+M032 Outras artropatias pós-infecciosas em doenças classificadas em outra parte 
+M036 Artropatia reacional em outras doenças classificadas em outra parte 
+M050 Síndrome de Felty 
+M051 Doença reumatóide do pulmão 
+M052 Vasculite reumatóide 
+M053 Artrite reumatóide com comprometimento de outros órgãos e sistemas 
+M058 Outras artrites reumatóides soro-positivas 
+M059 Artrite reumatóide soro-positiva não especificada 
+M060 Artrite reumatóide soro-negativa 
+M061 Doença de Still do adulto 
+M062 Bursite reumatóide 
+M063 Nódulo reumatóide 
+M064 Poliartropatia inflamatória 
+M068 Outras artrites reumatóides especificadas 
+M069 Artrite reumatóide não especificada 
+M070 Artropatia psoriásica interfalangiana distal 
+M071 Artrite mutilante 
+M072 Espondilite psoriásica 
+M073 Outras artropatias psoriásicas 
+M074 Artropatia na doença de Crohn [enterite regional] 
+M075 Artropatia na colite ulcerativa 
+M076 Outras artropatias enteropáticas 
+M080 Artrite reumatóide juvenil 
+M081 Espondilite ancilosante juvenil 
+M082 Artrite juvenil com início sistêmico 
+M083 Poliartrite juvenil (soro-negativa) 
+M084 Artrite juvenil pauciarticular 
+M088 Outras artrites juvenis 
+M089 Artrite juvenil não especificada 
+M090 Artrite juvenil na psoríase 
+M091 Artrite juvenil na doença de Chron [enterite regional] 
+M092 Artrite juvenil na colite ulcerativa 
+M098 Artrite juvenil em outras doenças classificadas em outra parte 
+M100 Gota idiopática 
+M101 Gota induzida por chumbo 
+M102 Gota induzida por drogas 
+M103 Gota devida à disfunção renal 
+M104 Outra gota secundária 
+M109 Gota, não especificada 
+M110 Doença por deposição de hidroxiapatita 
+M111 Condrocalcinose familiar 
+M112 Outras condrocalcinoses 
+M118 Outras artropatias especificadas por deposição de cristais 
+M119 Artropatia por deposição de cristais, não especificada 
+M120 Artropatia pós-reumática crônica [Jaccoud] 
+M121 Doença de Kashin-Beck 
+M122 Sinovite vilonodular (pigmentada) 
+M123 Reumatismo palindrômico 
+M124 Hidrartrose intermitente 
+M125 Artropatia traumática 
+M128 Outras artropatias específicas não classificadas em outra parte 
+M130 Poliartrite não especificada 
+M131 Monoartrites não classificadas em outra parte 
+M138 Outras artrites especificadas 
+M139 Artrite não especificada 
+M140 Artropatia gotosa devida a defeitos enzimáticos e a outras doenças hereditárias 
+M141 Artropatia por depósito de cristais em outras doenças metabólicas classificadas 
+em outra parte 
+M142 Artropatia diabética 
+M143 Dermatoartrite lipóide 
+M144 Artropatia na amiloidose 
+M145 Artropatias em outras doenças endócrinas, nutricionais e metabólicas 
+M146 Artropatia neuropática 
+M148 Artropatias em outras doenças especificadas classificadas em outra parte 
+M150 (Osteo)artrose primária generalizada 
+M151 Nódulos de Heberden (com artropatia) 
+M152 Nódulos de Bouchard (com artropatia) 
+M153 Artrose múltipla secundária 
+M154 (Osteo)artrose erosiva 
+M158 Outras poliartroses 
+M159 Poliartrose não especificada 
+M160 Coxartrose primária bilateral 
+M161 Outras coxartroses primárias 
+M162 Coxartrose bilateral resultante de displasia 
+M163 Outras coxartroses displásicas 
+M164 Coxartrose bilateral pós-traumática 
+M165 Outras coxartroses pós-traumáticas 
+M166 Outras coxartroses secundárias bilaterais 
+M167 Outras coxartroses secundárias 
+M169 Coxartrose não especificada 
+M170 Gonartrose primária bilateral 
+M171 Outras gonartroses primárias 
+M172 Gonartrose pós-traumática bilateral 
+M173 Outras gonartroses pós-traumática 
+M174 Outras gonartroses secundárias bilaterais 
+M175 Outras gonartroses secundárias 
+M179 Gonartrose não especificada 
+M180 Artrose primária bilateral das primeiras articulações carpometacarpianas 
+M181 Outras artroses primárias da primeira articulação carpometacarpiana 
+M182 Artrose pós-traumática bilateral da primeira articulação carpometacarpiana 
+M183 Outras artroses pós-traumáticas da primeira articulação carpometacarpiana 
+M184 Outras cartroses secundárias bilaterais das primeiras articulações 
+carpometacarpianas 
+M185 Outras artroses secundárias da primeira articulação carpometacarpiana 
+M189 Artrose não especificada da primeira articulação carpometacarpiana 
+M190 Artrose primária de outras articulações 
+M191 Artrose pós-traumática de outras articulações 
+M192 Outras artroses secundárias 
+M198 Outras artroses especificadas 
+M199 Artrose não especificada 
+M200 Deformidade(s) do(s) dedo(s) das mãos 
+M201 Hallux valgo (adquirido) 
+M202 Hallux rigidus 
+M203 Outra deformidade do hallux (adquirida) 
+M204 Dedo(s) do pé em malho (adquirido) 
+M205 Outras deformidades (adquiridas) do(s) dedo(s) dos pés 
+M206 Deformidade adquirida não especificada de dedo(s) do pé 
+M210 Deformidade em valgo não classificada em outra parte 
+M211 Deformidade em varo não classificada em outra parte 
+M212 Deformidade em flexão 
+M213 Mão (pulso) ou pé pendente (adquirido) 
+M214 Pé chato [pé plano] (adquirido) 
+M215 Mão e pé em garra e mão e pé tortos adquiridos 
+M216 Outras deformidades adquiridas do tornozelo e do pé 
+M217 Desigualdade (adquirida) do comprimento dos membros 
+M218 Outras deformidades adquiridas especificadas dos membros 
+M219 Deformidade adquirida não especificada de membro 
+M220 Deslocamento recidivante da rótula 
+M221 Subluxação recidivante da rótula 
+M222 Transtornos femuropatelares 
+M223 Outros desarranjos da rótula 
+M224 Condromalácia da rótula 
+M228 Outros transtornos da rótula 
+M229 Transtorno da rótula, não especificado 
+M230 Menisco cístico 
+M231 Menisco discóide (congênito) 
+M232 Transtorno do menisco devido à ruptura ou lesão antiga 
+M233 Outros transtornos do menisco 
+M234 Corpo flutuante no joelho 
+M235 Instabilidade crônica do joelho 
+M236 Outras rupturas espontâneas de ligamento(s) do joelho 
+M238 Outros transtornos internos do joelho 
+M239 Transtorno interno não especificado do joelho 
+M240 Corpo flutuante em articulação 
+M241 Outros transtornos das cartilagens articulares 
+M242 Transtornos de ligamentos 
+M243 Deslocamento e subluxação patológicas de articulação, não classificada em 
+outra parte 
+M244 Deslocamento e subluxação de articulação recidivantes 
+M245 Contratura articular 
+M246 Ancilose articular 
+M247 Protusão do acetábulo 
+M248 Outros transtornos articulares específicos, não classificados em outra parte 
+M249 Desarranjo articular não especificado 
+M250 Hemartrose 
+M251 Fístula articular 
+M252 Flail Joint 
+M253 Outras instabilidades articulares 
+M254 Derrame articular 
+M255 Dor articular 
+M256 Rigidez articular não classificada em outra parte 
+M257 Osteofito 
+M258 Outros transtornos articulares especificados 
+M259 Transtorno articular não especificado 
+M300 Poliarterite nodosa 
+M301 Poliarterite com comprometimento pulmonar [Churg-Strauss] 
+M302 Poliarterite juvenil 
+M303 Síndrome de linfonodos mucocutâneos [Kawasaki] 
+M308 Outras afecções comuns na poliarterite nodosa 
+M310 Angeíte de hipersensibilidade 
+M311 Microangiopatia trombótica 
+M312 Granuloma da linha média letal 
+M313 Granulomatose de Wegener 
+M314 Síndrome do arco aórtico [Takayasu] 
+M315 Arterite de células gigantes com polimialgia reumática 
+M316 Outras arterites de células gigantes 
+M318 Outras vasculopatias necrotizantes especificadas 
+M319 Vasculopatia necrotizante não especificada 
+M320 Lúpus eritematoso disseminado [sistêmico] induzido por drogas 
+M321 Lúpus eritematoso disseminado [sistêmico] com comprometimento de outros 
+órgãos e sistemas 
+M328 Outras formas de lúpus eritematoso disseminado [sistêmico] 
+M329 Lúpus eritematoso disseminado [sistêmico] não especificado 
+M330 Dermatomiosite juvenil 
+M331 Outras dermatomiosites 
+M332 Polimiosite 
+M339 Dermatopolimiosite não especificada 
+M340 Esclerose sistêmica progressiva 
+M341 Síndrome cr(e)st 
+M342 Esclerose sistêmica induzida por droga e substâncias químicas 
+M348 Outras formas de esclerose sistêmica 
+M349 Esclerose sistêmica não especificada 
+M350 Síndrome seca [Sjögren] 
+M351 Outras síndromes superpostas 
+M352 Doença de Behçet 
+M353 Polimialgia reumática 
+M354 Fasciíte (eosinofílica) difusa 
+M355 Fibroesclerose multifocal 
+M356 Paniculite recidivante [Weber-Christian] 
+M357 Síndrome de hipermobilidade 
+M358 Outro comprometimento sistêmico especificado do tecido conjuntivo 
+M359 Comprometimento sistêmico não especificado do tecido conjuntivo 
+M360 Dermato(poli)miosite em doenças neoplásicas 
+M361 Artropatia em doenças neoplásicas classificadas 
+M362 Artropatia hemofílica 
+M363 Artropatias em outras doenças hematológicas 
+M364 Artropatia associada a reações de hipersensibilidade classificadas em outra 
+parte 
+M368 Doenças sistêmicas do tecido conjuntivo em outras doenças classificadas em 
+outra parte 
+M400 Cifose postural 
+M401 Outras cifoses secundárias 
+M402 Outras cifoses e as não especificadas 
+M403 Síndrome da retificação da coluna vertebral 
+M404 Outras lordoses 
+M405 Lordose não especificada 
+M410 Escoliose idiopática infantil 
+M411 Escoliose idiopática juvenil 
+M412 Outras escolioses idiopáticas 
+M413 Escoliose toracogênica 
+M414 Escoliose neuromuscular 
+M415 Outras escolioses secundárias 
+M418 Outras formas de escoliose 
+M419 Escoliose não especificada 
+M420 Osteocondrose vertebral juvenil 
+M421 Osteocondrose vertebral do adulto 
+M429 Osteocondrose vertebral, não especificada 
+M430 Espondilólise 
+M431 Espondilolistese 
+M432 Outras fusões da coluna vertebral 
+M433 Subluxação atlanto-axial recidivante com mielopatia 
+M434 Outras subluxações atlanto-axiais recidivantes 
+M435 Outras subluxações vertebrais recidivantes 
+M436 Torcicolo 
+M438 Outras dorsopatias deformantes especificadas 
+M439 Dorsopatia deformante, não especificada 
+M45 Espondilite ancilosante 
+M460 Entesopatia vertebral 
+M461 Sacroileíte não classificada em outra parte 
+M462 Osteomielite das vértebras 
+M463 Infecção (piogênica) do disco intervertebral 
+M464 Discite não especificada 
+M465 Outras espondilopatias infecciosas 
+M468 Outras espondilopatias inflamatórias especificadas 
+M469 Espondilopatia inflamatória não especificada 
+M470 Síndromes de compressão da artéria espinhal anterior ou vertebral anterior 
+M471 Outras espondiloses com mielopatia 
+M472 Outras espondiloses com radiculopatias 
+M478 Outras espondiloses 
+M479 Espondilose não especificada 
+M480 Estenose da coluna vertebral 
+M481 Hiperostose ancilosante [forestier] 
+M482 Kissing spine 
+M483 Espondilopatia traumática 
+M484 Fratura de fadiga de vértebra 
+M485 Vértebra colapsada não classificada em outra parte 
+M488 Outras espondilopatias especificadas 
+M489 Espondilopatia não especificada 
+M490 Tuberculose da coluna vertebral 
+M491 Espondilite por Brucella 
+M492 Espondilite por enterobactérias 
+M493 Espondilopatia em outras doenças infeciosas e parasitárias classificadas em 
+outra parte 
+M494 Espondilopatia neuropática 
+M495 Vértebra colapsada em doenças classificadas em outra parte 
+M498 Espondilopatia em outras doenças classificadas em outra parte 
+M500 Transtorno do disco cervical com mielopatia 
+M501 Transtorno do disco cervical com radiculopatia 
+M502 Outro deslocamento de disco cervical 
+M503 Outra degeneração de disco cervical 
+M508 Outros transtornos de discos cervicais 
+M509 Transtorno não especificado de disco cervical 
+M510 Transtornos de discos lombares e de outros discos intervertebrais com 
+mielopatia 
+M511 Transtornos de discos lombares e de outros discos intervertebrais com 
+radiculopatia 
+M512 Outros deslocamentos discais intervertebrais especificados 
+M513 Outra degeneração especificada de disco intervertebral 
+M514 Nódulos de Schmorl 
+M518 Outros transtornos especificados de discos intervertebrais 
+M519 Transtorno não especificado de disco intervertebral 
+M530 Síndrome cervicocraniana 
+M531 Síndrome cervicobraquial 
+M532 Instabilidades da coluna vertebral 
+M533 Transtornos sacroccígeos não classificados em outra parte 
+M538 Outras dorsopatias especificadas 
+M539 Dorsopatia não especificada 
+M540 Paniculite atingindo regiões do pescoço e do dorso 
+M541 Radiculopatia 
+M542 Cervicalgia 
+M543 Ciática 
+M544 Lumbago com ciática 
+M545 Dor lombar baixa 
+M546 Dor na coluna torácica 
+M548 Outra dorsalgia 
+M549 Dorsalgia não especificada 
+M600 Miosite infecciosa 
+M601 Miosite intersticial 
+M602 Granuloma de corpo estranho no tecido mole não classificado em outra parte 
+M608 Outras miosites 
+M609 Miosite não especificada 
+M610 Miosite ossificante traumática 
+M611 Miosite ossificante progressiva 
+M612 Calcificação e ossificação paralítica de músculo 
+M613 Calcificação e ossificação de músculo associadas com queimaduras 
+M614 Outra calcificação de músculo 
+M615 Outra ossificação de músculo 
+M619 Calcificação e ossificação de músculo não especificada 
+M620 Diástase de músculo 
+M621 Outras rupturas musculares (não-traumáticas) 
+M622 Infarto isquêmico do músculo 
+M623 Síndrome de imobilidade (paraplégica) 
+M624 Contratura de músculo 
+M625 Perda e atrofia muscular não classificadas em outra parte 
+M626 Distensão muscular 
+M628 Outros transtornos musculares especificados 
+M629 Transtorno muscular não especificado 
+M630 Miosite em doenças bacterianas classificadas em outra parte 
+M631 Miosite em doenças infecciosas causadas por protozoários e parasitas 
+classificadas em outra parte 
+M632 Miosite em outras doenças infecciosas classificadas em outra parte 
+M633 Miosite na sarcoidose 
+M638 Outros transtornos musculares em doenças classificadas em outra parte 
+M650 Abscesso da bainha tendínea 
+M651 Outras (teno)sinovites infecciosas 
+M652 Tendinite calcificada 
+M653 Dedo em gatilho 
+M654 Tenossinovite estilóide radial [de quervain] 
+M658 Outras sinovites e tenossinovites 
+M659 Sinovite e tenossinovite não especificadas 
+M660 Ruptura de cisto poplíteo 
+M661 Ruptura de sinóvia 
+M662 Ruptura espontânea de tendões extensores 
+M663 Ruptura espontânea de tendões flexores 
+M664 Ruptura espontânea de outros tendões 
+M665 Ruptura espontânea de tendões não especificados 
+M670 Tendão de aquiles curto (adquirido) 
+M671 Outra contratura de tendão (bainha) 
+M672 Hipertrofia sinovial não classificada em outra parte 
+M673 Sinovite transitória 
+M674 Gânglios 
+M678 Outros transtornos especificados da sinóvia e do tendão 
+M679 Transtorno não especificado da sinóvia e do tendão 
+M680 Sinovite e tenossinovite em doenças bacterianas classificadas em outra parte 
+M688 Outros transtornos de sinóvias e de tendões em doenças classificadas em outra 
+parte 
+M700 Sinovite crepitante crônica da mão e do punho 
+M701 Bursite da mão 
+M702 Bursite do olécrano 
+M703 Outras bursites do cotovelo 
+M704 Bursite pré-patelar 
+M705 Outras bursites do joelho 
+M706 Bursite trocantérica 
+M707 Outras bursites do quadril 
+M708 Outros transtornos dos tecidos moles relacionados com o uso, uso excessivo e 
+pressão 
+M709 Transtorno não especificado dos tecidos moles relacionados com o uso, uso 
+excessivo e pressão 
+M710 Abscesso de bolsa sinovial 
+M711 Outras bursites infecciosas 
+M712 Cisto sinovial do espaço poplíteo [Baker] 
+M713 Outros cistos de bolsa sinovial 
+M714 Depósito de cálcio em bolsa sinovial 
+M715 Outras bursites não classificadas em outra parte 
+M718 Outras bursopatias especificadas 
+M719 Bursopatia não especificada 
+M720 Fibromatose de fáscia palmar [Dupuytren] 
+M721 Coxins interfalângicos (nó dos dedos) 
+M722 Fibromatose da fáscia plantar 
+M724 Fibromatose pseudossarcomatosa 
+M728 Outros transtornos fibroblásticos 
+M729 Transtorno fibroblástico não especificado 
+M730 Bursite gonocócica 
+M731 Bursite sifilítica 
+M738 Outros transtornos dos tecidos moles em outras doenças classificadas em outra 
+parte 
+M750 Capsulite adesiva do ombro 
+M751 Síndrome do manguito rotador 
+M752 Tendinite bicepital 
+M753 Tendinite calcificante do ombro 
+M754 Síndrome de colisão do ombro 
+M755 Bursite do ombro 
+M758 Outras lesões do ombro 
+M759 Lesão não especificada do ombro 
+M760 Tendinite glútea 
+M761 Tendinite do psoas 
+M762 Esporão da crista ilíaca 
+M763 Síndrome da faixa iliotibial 
+M764 Bursite tibial colateral [Pellegrini-Stieda] 
+M765 Tendinite patelar 
+M766 Tendinite aquileana 
+M767 Tendinite do perôneo 
+M768 Outras entesopatias do membro inferior, excluindo o pé 
+M769 Entesopatia do membro inferior não especificada 
+M770 Epicondilite medial 
+M771 Epicondilite lateral 
+M772 Periartrite do punho 
+M773 Esporão do calcâneo 
+M774 Metatarsalgia 
+M775 Outra entesopatia do pé 
+M778 Outras entesopatias não classificadas em outra parte 
+M779 Entesopatia não especificada 
+M790 Reumatismo não especificado 
+M791 Mialgia 
+M792 Nevralgia e neurite não especificadas 
+M793 Paniculite não especificada 
+M794 Hipertrofia do coxim gorduroso (infrapatelar) 
+M795 Corpo estranho residual no tecido mole 
+M796 Dor em membro 
+M797 Fibromialgia 
+M798 Outros transtornos especificados dos tecidos moles 
+M799 Transtorno dos tecidos moles não especificado 
+M800 Osteoporose pós-menopáusica com fratura patológica 
+M801 Osteoporose pós-ooforectomia com fratura patológica 
+M802 Osteoporose de desuso com fratura patológica 
+M803 Osteoporose por má-absorção pós-cirúrgica com fratura patológica 
+M804 Osteoporose induzida por drogas com fratura patológica 
+M805 Osteoporose idiopática com fratura patológica 
+M808 Outras osteoporoses com fratura patológica 
+M809 Osteoporose não especificada com fratura patológica 
+M810 Osteoporose pós-menopáusica 
+M811 Osteoporose pós-ooforectomia 
+M812 Osteoporose de desuso 
+M813 Osteoporose devida à má-absorção pós-cirúrgica 
+M814 Osteoporose induzida por drogas 
+M815 Osteoporose idiopática 
+M816 Osteoporose localizada [Lequesne] 
+M818 Outras osteoporoses 
+M819 Osteoporose não especificada 
+M820 Osteoporose na mielomatose múltipla 
+M821 Osteoporose em distúrbios endócrinos 
+M828 Osteoporose em outras doenças classificadas em outra parte 
+M830 Osteomalácia puerperal 
+M831 Osteomalácia senil 
+M832 Osteomalácia do adulto devida a má-absorção 
+M833 Osteomalácia do adulto devido à desnutrição 
+M834 Doença óssea pelo alumínio 
+M835 Outras osteomalácias do adulto induzidas por drogas 
+M838 Outra osteomalácia do adulto 
+M839 Osteomalácia não especificada do adulto 
+M840 Defeito de consolidação da fratura 
+M841 Ausência de consolidação da fratura [pseudo-artrose] 
+M842 Atraso de consolidação de fratura 
+M843 Fratura de fadiga (stress) não classificada em outra parte 
+M844 Fratura patológica não classificada em outra parte 
+M848 Outros transtornos da continuidade do osso 
+M849 Transtorno não especificado da continuidade do osso 
+M850 Displasia fibrosa (monostótica) 
+M851 Fluorose esquelética 
+M852 Hiperostose do crânio 
+M853 Osteíte condensante 
+M854 Cisto ósseo solitário 
+M855 Cisto ósseo aneurismático 
+M856 Outro cisto ósseo 
+M858 Outros transtornos especificados da densidade e da estrutura ósseas 
+M859 Transtorno não especificado da densidade e da estrutura ósseas 
+M860 Osteomielite aguda hematogênica 
+M861 Outra osteomielite aguda 
+M862 Osteomielite subaguda 
+M863 Osteomielite crônica multifocal 
+M864 Osteomielite crônica com seio drenante 
+M865 Outra osteomielite crônica hematogênica 
+M866 Outra osteomielite crônica 
+M868 Outra osteomielite 
+M869 Osteomielite não especificada 
+M870 Necrose asséptica idiopática do osso 
+M871 Osteonecrose devida a drogas 
+M872 Osteonecrose devida a traumatismo anterior 
+M873 Outras osteonecroses secundárias 
+M878 Outras osteonecroses 
+M879 Osteonecrose não especificada 
+M880 Doença de paget do crânio 
+M888 Doença de paget de outros ossos 
+M889 Doença de paget de osso não especificado 
+M890 Algoneurodistrofia 
+M891 Parada de crescimento epifisário 
+M892 Outros transtornos do desenvolvimento e do crescimento ósseo 
+M893 Hipertrofia óssea 
+M894 Outras osteoartropatias hipertróficas 
+M895 Osteolise 
+M896 Osteopatia pós-poliomielite 
+M898 Outros transtornos especificados do osso 
+M899 Transtorno não especificado do osso 
+M900 Tuberculose óssea 
+M901 Periostite em outras doenças infecciosas classificadas em outra parte 
+M902 Osteopatia em outras doenças infecciosas classificadas em outra parte 
+M903 Osteonecrose em mal dos caixões 
+M904 Osteonecrose devida à hemoglobinopatia 
+M905 Osteonecrose em outras doenças classificadas em outra parte 
+M906 Osteíte deformante em doenças neoplásicas 
+M907 Fratura óssea em doenças neoplásicas 
+M908 Osteopatia em outras doenças classificadas em outra parte 
+M910 Osteocondrose juvenil da pelve 
+M911 Osteocondrose juvenil da cabeça do fêmur [Legg-Calvé-Perthes] 
+M912 Coxa plana 
+M913 Pseudocoxalgia 
+M918 Outras osteocondroses juvenis do quadril e da pelve 
+M919 Osteocondrose juvenil não especificada do quadril e da pelve 
+M920 Osteocondrose juvenil do úmero 
+M921 Osteocondrose juvenil do rádio e do cúbito [ulna] 
+M922 Osteocondrose juvenil da mão 
+M923 Outras osteocondroses juvenis do membro superior 
+M924 Osteocondrose juvenil da rótula [patela] 
+M925 Osteocondrose juvenil da tíbia e perônio [fíbula] 
+M926 Osteocondrose juvenil do tarso 
+M927 Osteocondrose juvenil do metatarso 
+M928 Outras osteocondroses juvenis especificadas 
+M929 Osteocondrose juvenil, não especificada 
+M930 Luxação (não-traumática) da epífise superior do fêmur 
+M931 Doença de kienböck do adulto 
+M932 Osteocondrite dissecante 
+M938 Outras osteocondropatias, especificadas 
+M939 Osteocondropatias, não especificada 
+M940 Síndrome da junção condrocostal [tietze] 
+M941 Policondrite recidivante 
+M942 Condromalácia 
+M943 Condrolise 
+M948 Outros transtornos especificados da cartilagem 
+M949 Transtornos não especificados da cartilagem 
+M950 Deformidade adquirida do nariz 
+M951 Orelha em couve-flor 
+M952 Outras deformidades adquiridas da cabeça 
+M953 Deformidade adquirida do pescoço 
+M954 Deformidade adquirida do tórax e das costelas 
+M955 Deformidade adquirida da pelve 
+M958 Outras deformidades adquiridas especificadas do sistema osteomuscular 
+A300 Hanseníase [lepra] indeterminada 
+A301 Hanseníase [lepra] tuberculóide 
+A302 Hanseníase [lepra] tuberculóide borderline 
+A303 Hanseníase [lepra] dimorfa 
+A304 Hanseníase [lepra] lepromatosa borderline 
+A305 Hanseníase [lepra] lepromatosa 
+A308 Outras formas de hanseníase [lepra] 
+A309 Hanseníase [lepra] não especificada 
+G000 Meningite por Haemophilus 
+G001 Meningite pneumocócica 
+G002 Meningite estreptocócica 
+G003 Meningite estafilocócica 
+G008 Outras meningites bacterianas 
+G009 Meningite bacteriana não especificada 
+G01 Meningite em doenças bacterianas classificadas em outra parte 
+G040 Encefalite aguda disseminada 
+G041 Paraplegia espástica tropical 
+G042 Meningoencefalite e meningomielite bacterianas não classificadas em outra 
+parte 
+G048 Outras encefalites, mielites e encefalomielites 
+G049 Encefalite, mielite e encefalomielite não especificada 
+G050 Encefalite, mielite e encefalomielite em doenças bacterianas classificadas em 
+outra parte 
+G051 Encefalite, mielite e encefalomielite em doenças virais classificadas em outra 
+parte 
+G052 Encefalite, mielite e encefalomielite em outras doenças infecciosas e 
+parasitárias classificadas em outra parte 
+G058 Encefalite, mielite e encefalomielite em outras doenças classificadas em outra 
+parte 
+G09 Seqüelas de doenças inflamatórias do sistema nervoso central 
+G10 Doença de Huntington 
+G110 Ataxia congênita não-progressiva 
+G111 Ataxia cerebelar de início precoce 
+G112 Ataxia cerebelar de início tardio 
+G113 Ataxia cerebelar com déficit na reparação do dna 
+G114 Paraplegia espástica hereditária 
+G118 Outras ataxias hereditárias 
+G119 Ataxia hereditária não especificada 
+G120 Atrofia muscular espinal infantil tipo I [Werdnig-Hoffman] 
+G121 Outras atrofias musculares espinais hereditárias 
+G122 Doença do neurônio motor 
+G128 Outras atrofias musculares espinais e síndromes musculares correlatas 
+G129 Atrofia muscular espinal não especificada 
+G130 Neuromiopatia e neuropatia paraneoplásicas 
+G131 Outra atrofia sistêmica que afeta primariamente o sistema nervoso central em 
+doenças neoplásicas 
+G132 Atrofia sistêmica que afeta primariamente o sistema nervoso central no 
+mixedema 
+G138 Atrofia sistêmica que afeta primariamente o sistema nervoso central em outras 
+doenças classificadas em outra parte 
+G20 Doença de Parkinson 
+G210 Síndrome maligna dos neurolépticos 
+G211 Outras formas de parkinsonismo secundário induzido por drogas 
+G212 Parkinsonismo secundário devido a outros agentes externos 
+G213 Parkinsonismo pós-encefalítico 
+G218 Outras formas de parkinsonismo secundário 
+G219 Parkinsonismo secundário não especificado 
+G22 Parkinsonismo em doenças classificadas em outra parte 
+G230 Doença de Hallervorden-Spatz 
+G231 Oftalmoplegia supranuclear progressiva [Steele-Richardson-Olszewski] 
+G232 Degeneração estrionígrica 
+G238 Outras doenças degenerativas especificadas dos gânglios da base 
+G239 Doença degenerativa dos gânglios da base, não especificada 
+G240 Distonia induzida por drogas 
+G241 Distonia familiar idiopática 
+G242 Distonia não-familiar idiopática 
+G243 Torcicolo espasmódico 
+G244 Distonia orofacial idiopática 
+G245 Blefaroespasmo 
+G248 Outras distonias 
+G249 Distonia não especificada 
+G310 Atrofia cerebral circunscrita 
+G311 Degeneração cerebral senil, não classificadas em outra parte 
+G312 Degeneração do sistema nervoso devida ao álcool 
+G318 Outras doenças degenerativas especificadas do sistema nervoso 
+G319 Doença degenerativa do sistema nervoso, não especificada 
+G35 Esclerose múltipla 
+G360 Neuromielite óptica [doença de Devic] 
+G361 Leucoencefalite hemorrágica aguda e subaguda [Hurst] 
+G368 Outras desmielinizações disseminadas agudas especificadas 
+G369 Desmielinização disseminada aguda não especificada 
+G370 Esclerose difusa 
+G371 Desmielinização central do corpo caloso 
+G372 Mielinólise central da ponte 
+G373 Mielite transversa aguda em doenças desmielinizantes do sistema nervoso 
+central 
+G374 Mielite subaguda necrótica 
+G375 Esclerose concêntrica [baló] 
+G378 Outras doenças desmielinizantes especificadas do sistema nervoso central 
+G379 Doença desmielinizante do sistema nervoso central, não especificada 
+G400 Epilepsia e síndromes epilépticas idiopáticas definidas por sua localização 
+(focal) (parcial) com crises de início focal 
+G401 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais simples 
+G402 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais complexas 
+G403 Epilepsia e síndromes epilépticas generalizadas idiopáticas 
+G404 Outras epilepsias e síndromes epilépticas generalizadas 
+G405 Síndromes epilépticas especiais 
+G406 Crise de grande mal, não especificada (com ou sem pequeno mal) 
+G407 Pequeno mal não especificado, sem crises de grande mal 
+G408 Outras epilepsias 
+G409 Epilepsia, não especificada 
+G450 Síndrome da artéria vértebro-basilar 
+G451 Síndrome da artéria carotídea (hemisférica) 
+G452 Síndrome das artérias pré-cerebrais, múltiplas e bilaterais 
+G453 Amaurose fugaz 
+G454 Amnésia global transitória 
+G458 Outros acidentes isquêmicos cerebrais transitórios e síndromes correlatas 
+G459 Isquemia cerebral transitória não especificada 
+G460 Síndrome da artéria cerebral média 
+G461 Síndrome da artéria cerebral anterior 
+G462 Síndrome da artéria cerebral posterior 
+G463 Síndromes vasculares do tronco cerebral 
+G464 Síndrome vascular cerebelar 
+G465 Síndrome lacunar motora pura 
+G466 Síndrome lacunar sensorial pura 
+G467 Outras síndromes lacunares 
+G468 Outras síndromes vasculares cerebrais em doenças cerebrovasculares 
+G510 Paralisia de bell 
+G540 Transtornos do plexo braquial 
+G541 Transtornos do plexo lombossacral 
+G542 Transtornos das raízes cervicais não classificadas em outra parte 
+G543 Transtornos das raízes torácicas não classificadas em outra parte 
+G544 Transtornos das raízes lombossacras não classificadas em outra parte 
+G545 Amiotrofia nevrálgica 
+G546 Síndrome dolorosa do membro fantasma 
+G547 Síndrome do membro fantasma sem manifestação dolorosa 
+G548 Outros transtornos das raízes e dos plexos nervosos 
+G549 Transtorno não especificado das raízes e dos plexos nervosos 
+G580 Neuropatia intercostal 
+G587 Mononeurite múltipla 
+G588 Outras mononeuropatias especificadas 
+G589 Mononeuropatia não especificada 
+G600 Neuropatia hereditária motora e sensorial 
+G601 Doença de refsum 
+G602 Neuropatia associada a ataxia hereditária 
+G603 Neuropatia progressiva idiopática 
+G608 Outras neuropatias hereditárias e idiopáticas 
+G609 Neuropatia hereditária e idiopática não especificada 
+G610 Síndrome de guillain-barré 
+G611 Neuropatia sérica 
+G618 Outras polineuropatias inflamatórias 
+G619 Polineuropatia inflamatória não especificada 
+G630 Polineuropatia em doenças infecciosas e parasitárias classificadas em outra 
+parte 
+G631 Polineuropatia em doenças neoplásicas 
+G632 Polineuropatia diabética 
+G633 Polineuropatia em outras doenças endócrinas e metabólicas 
+G634 Polineuropatia em deficiências nutricionais 
+G635 Polineuropatia em doenças sistêmicas do tecido conjuntivo 
+G636 Polineuropatia em outros transtornos osteomusculares 
+G638 Polineuropatia em outras doenças classificadas em outra parte 
+G64 Outros transtornos do sistema nervoso periférico 
+G700 Miastenia gravis 
+G701 Transtornos mioneurais tóxicos 
+G702 Miastenia congênita e do desenvolvimento 
+G708 Outros transtornos mioneurais especificados 
+G709 Transtorno mioneural não especificado 
+G710 Distrofia muscular 
+G711 Transtornos miotônicos 
+G712 Miopatias congênitas 
+G713 Miopatia mitocondrial não classificada em outra parte 
+G718 Outros transtornos primários dos músculos 
+G719 Transtorno muscular primário não especificado 
+G730 Síndromes miastênicas em doenças endócrinas 
+G731 Síndrome de Eaton-Lambert 
+G732 Outras síndromes miastênicas em doenças neoplásicas 
+G733 Síndromes miastênicas em outras doenças classificadas em outra parte 
+G734 Miopatia em doenças infecciosas e parasitárias classificadas em outra parte 
+G735 Miopatia em doenças endócrinas 
+G736 Miopatia em doenças metabólicas 
+G737 Miopatia em outras doenças classificadas em outra parte 
+G800 Paralisia cerebral quadriplágica espástica 
+G801 Paralisia cerebral diplégica espástica 
+G802 Paralisia cerebral hemiplégica espástica 
+G803 Paralisia cerebral discinética 
+G804 Paralisia cerebral atáxica 
+G808 Outras formas de paralisia cerebral 
+G809 Paralisia cerebral não especificada 
+G810 Hemiplegia flácida 
+G811 Hemiplegia espástica 
+G819 Hemiplegia não especificada 
+G820 Paraplegia flácida 
+G821 Paraplegia espástica 
+G822 Paraplegia não especificada 
+G823 Tetraplegia flácida 
+G824 Tetraplegia espástica 
+G825 Tetraplegia não especificada 
+G830 Diplegia dos membros superiores 
+G831 Monoplegia do membro inferior 
+G832 Monoplegia do membro superior 
+G833 Monoplegia não especificada 
+G834 Síndrome da cauda eqüina 
+G838 Outras síndromes paralíticas especificadas 
+G839 Síndrome paralítica não especificada 
+G910 Hidrocefalia comunicante 
+G911 Hidrocefalia obstrutiva 
+G912 Hidrocefalia de pressão normal 
+G913 Hidrocefalia pós-traumática não especificada 
+G918 Outras formas de hidrocefalia 
+G919 Hidrocefalia não especificada 
+G92 Encefalopatia tóxica 
+G930 Cistos cerebrais 
+G931 Lesão encefálica anóxica, não classificada em outra parte 
+G932 Hipertensão intracraniana benigna 
+G933 Síndrome da fadiga pós-viral 
+G934 Encefalopatia não especificada 
+G935 Compressão do encéfalo 
+G936 Edema cerebral 
+G937 Síndrome de Reye 
+G938 Outros transtornos especificados do encéfalo 
+G939 Transtorno não especificado do encéfalo 
+G940 Hidrocefalia em doenças infecciosas e parasitárias classificadas em outra parte 
+G941 Hidrocefalia em doenças neoplásicas 
+G942 Hidrocefalia em outras doenças classificadas em outra parte 
+G948 Outros transtornos encefálicos especificados em doenças classificadas em 
+outra parte 
+G950 Siringomielia e siringobulbia 
+G951 Mielopatias vasculares 
+G952 Compressão não especificada de medula espinal 
+G958 Outras doenças especificadas da medula espinal 
+G959 Doença não especificada da medula espinal 
+G990 Neuropatia autonômica em doenças endócrinas e metabólicas 
+G991 Outros transtornos do sistema nervoso autônomo em doenças classificadas em 
+outra parte 
+G992 Mielopatia em doenças classificadas em outra parte 
+G998 Outros transtornos especificados do sistema nervoso em doenças classificadas 
+em outra parte 
+M000 Artrite e pioliartrite estafilocócicas 
+M001 Artrite e poliartrite pneumocócicas 
+M002 Outras artrites e poliartrites estreptocócicas 
+M008 Artrite e poliartrite devidas a outro agente bacteriano especificado 
+M009 Artrite piogênica, não especificada 
+M010 Artrite meningocócica 
+M011 Artrite tuberculosa 
+M012 Artrite na doença de Lyme 
+M013 Artrite em outras doenças bacterianas classificadas em outra parte 
+M014 Artrite na rubéola 
+M015 Artrite em outras doenças virais classificadas em outra parte 
+M016 Artrite em micoses 
+M018 Artrite em outras doenças infecciosas e parasitárias classificadas em outra 
+parte 
+M020 Artropatia pós-derivação intestinal 
+M021 Artropatia pós-desintérica 
+ 
+ 
+CÓDIGO: 0302060014 
+DESCRIÇÃO: Atendimento fisioterapêutico em pacientes com distúrbios neuro-cinético
+funcionais sem complicações (FISIO NEURO) 
+CID 10 
+I608 Outras hemorragias subaracnóides 
+I610 Hemorragia intracerebral hemisférica subcortical 
+I611 Hemorragia intracerebral hemisférica cortical 
+I612 Hemorragia intracerebral hemisférica não especificada 
+I613 Hemorragia intracerebral do tronco cerebral 
+I614 Hemorragia intracerebral cerebelar 
+I615 Hemorragia intracerebral intraventricular 
+I616 Hemorragia intracerebral de múltiplas localizações 
+I618 Outras hemorragias intracerebrais 
+I64 Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico 
+I671 Aneurisma cerebral não-roto 
+I690 Seqüelas de hemorragia subaracnoídea 
+I691 Seqüelas de hemorragia intracerebral 
+I692 Seqüelas de outras hemorragias intracranianas não traumáticas 
+I693 Seqüelas de infarto cerebral 
+I694 Seqüelas de acidente vascular cerebral não especificado como hemorrágico ou 
+isquêmico 
+I698 Seqüelas de outras doenças cerebrovasculares e das não especificadas 
+M349 Esclerose sistêmica não especificada 
+M430 Espondilólise 
+M431 Espondilolistese 
+M471 Outras espondiloses com mielopatia 
+M478 Outras espondiloses 
+M541 Radiculopatia 
+M797 Fibromialgia 
+P911 Cistos periventriculares adquiridos do recém-nascido 
+Q010 Encefalocele frontal 
+Q011 Encefalocele nasofrontal 
+Q012 Encefalocele occipital 
+Q030 Malformações do aqueduto de sylvius 
+Q031 Atresia das fendas de luschka e do forâmen de magendie 
+Q038 Outra hidrocefalia congênita 
+Q050 Espinha bífida cervical com hidrocefalia 
+Q051 Espinha bífida torácica com hidrocefalia 
+Q052 Espinha bífida lombar com hidrocefalia 
+Q053 Espinha bífida sacra com hidrocefalia 
+Q055 Espinha bífida cervical, sem hidrocefalia 
+Q056 Espinha bífida torácica, sem hidrocefalia 
+Q057 Espinha bífida lombar, sem hidrocefalia 
+Q058 Espinha bífida sacra, sem hidrocefalia 
+Q063 Outras malformações congênitas da cauda eqüina 
+Q070 Síndrome de arnold-chiari 
+Q742 Outras malformações congênitas do(s) membro(s) inferiores, inclusive da 
+cintura pélvica 
+Q750 Craniossinostose 
+Q751 Disostose craniofacial 
+Q754 Disostose mandíbulo-facial 
+Q755 Disostose óculo-mandibular 
+Q758 Outras malformações congênitas especificadas dos ossos do crânio e da face 
+Q878 Outras síndromes com malformações congênitas especificadas, não 
+classificadas em outra parte 
+S017 Ferimentos múltiplos da cabeça 
+S018 Ferimento na cabeça, de outras localizações 
+S019 Ferimento na cabeça, parte não especificada 
+S020 Fratura da abóbada do crânio 
+S054 Ferimento penetrante da órbita com ou sem corpo estranho 
+S061 Edema cerebral traumático 
+S062 Traumatismo cerebral difuso 
+S063 Traumatismo cerebral focal 
+S064 Hemorragia epidural 
+S065 Hemorragia subdural devida a traumatismo 
+S066 Hemorragia subaracnóide devida a traumatismo 
+S067 Traumatismo intracraniano com coma prolongado 
+S068 Outros traumatismos intracranianos 
+S120 Fratura da primeira vértebra cervical 
+S121 Fratura da segunda vértebra cervical 
+S122 Fratura de outras vértebras cervicais especificadas 
+S127 Fraturas múltiplas da coluna cervical 
+S131 Luxação de vértebra cervical 
+S133 Luxações múltiplas do pescoço 
+S140 Concussão e edema da medula cervical 
+S142 Traumatismo da raiz nervosa da coluna cervical 
+S144 Traumatismo dos nervos periféricos do pescoço 
+S146 Traumatismo de outros nervos e dos não especificados do pescoço 
+S220 Fratura de vértebra torácica 
+S221 Fraturas múltiplas da coluna torácica 
+S231 Luxação de vértebra torácica 
+S240 Concussão e edema da medula espinhal torácica 
+S241 Outros traumatismos da medula espinhal torácica e os não especificados 
+S245 Traumatismo de outros nervos do tórax 
+S320 Fratura de vértebra lombar 
+S327 Fraturas múltiplas de coluna lombar e da pelve 
+S331 Luxação da vértebra lombar 
+S340 Concussão e edema da medula lombar 
+S341 Outro traumatismo da medula lombar 
+S342 Traumatismo de raiz nervosa da medula lombar e sacra 
+S343 Traumatismo de cauda eqüina 
+S344 Traumatismo do plexo lombossacro 
+S345 Traumatismo de nervos simpáticos lombares, sacros e pélvicos 
+T093 Traumatismo de medula espinhal, nível não especificado 
+T094 Traumatismo de nervos, de raízes de nervos espinhais e de plexos não 
+especificados do tronco 
+T095 Traumatismo de músculo e tendão não especificados do tronco 
+G702 Miastenia congênita e do desenvolvimento 
+G708 Outros transtornos mioneurais especificados 
+G709 Transtorno mioneural não especificado 
+G710 Distrofia muscular 
+G711 Transtornos miotônicos 
+G712 Miopatias congênitas 
+G713 Miopatia mitocondrial não classificada em outra parte 
+G718 Outros transtornos primários dos músculos 
+G719 Transtorno muscular primário não especificado 
+G720 Miopatia induzida por drogas 
+G721 Miopatia alcoólica 
+G722 Miopatia devida a outros agentes tóxicos 
+G723 Paralisia periódica 
+G724 Miopatia inflamatória não classificada em outra parte 
+G728 Outras miopatias especificadas 
+G729 Miopatia não especificada 
+G730 Síndromes miastênicas em doenças endócrinas 
+G731 Síndrome de Eaton-Lambert 
+G732 Outras síndromes miastênicas em doenças neoplásicas 
+G733 Síndromes miastênicas em outras doenças classificadas em outra parte 
+G734 Miopatia em doenças infecciosas e parasitárias classificadas em outra parte 
+G735 Miopatia em doenças endócrinas 
+G736 Miopatia em doenças metabólicas 
+G737 Miopatia em outras doenças classificadas em outra parte 
+G800 Paralisia cerebral quadriplágica espástica 
+G801 Paralisia cerebral diplégica espástica 
+G802 Paralisia cerebral hemiplégica espástica 
+G803 Paralisia cerebral discinética 
+G804 Paralisia cerebral atáxica 
+G808 Outras formas de paralisia cerebral 
+G809 Paralisia cerebral não especificada 
+G810 Hemiplegia flácida 
+G811 Hemiplegia espástica 
+G819 Hemiplegia não especificada 
+G820 Paraplegia flácida 
+G821 Paraplegia espástica 
+G822 Paraplegia não especificada 
+G823 Tetraplegia flácida 
+G824 Tetraplegia espástica 
+G825 Tetraplegia não especificada 
+G830 Diplegia dos membros superiores 
+G831 Monoplegia do membro inferior 
+G832 Monoplegia do membro superior 
+G833 Monoplegia não especificada 
+G834 Síndrome da cauda eqüina 
+G838 Outras síndromes paralíticas especificadas 
+G839 Síndrome paralítica não especificada 
+G900 Neuropatia autonômica periférica idiopática 
+G901 Disautonomia familiar [Síndrome de Riley-Day] 
+G902 Síndrome de Horner 
+G903 Degeneração multissistêmica 
+G908 Outros transtornos do sistema nervoso autônomo 
+G909 Transtorno não especificado do sistema nervoso autônomo 
+G910 Hidrocefalia comunicante 
+G911 Hidrocefalia obstrutiva 
+G912 Hidrocefalia de pressão normal 
+G913 Hidrocefalia pós-traumática não especificada 
+G918 Outras formas de hidrocefalia 
+G919 Hidrocefalia não especificada 
+G92 Encefalopatia tóxica 
+G930 Cistos cerebrais 
+G931 Lesão encefálica anóxica, não classificada em outra parte 
+G932 Hipertensão intracraniana benigna 
+G933 Síndrome da fadiga pós-viral 
+G934 Encefalopatia não especificada 
+G935 Compressão do encéfalo 
+G936 Edema cerebral 
+G937 Síndrome de Reye 
+G938 Outros transtornos especificados do encéfalo 
+G939 Transtorno não especificado do encéfalo 
+G940 Hidrocefalia em doenças infecciosas e parasitárias classificadas em outra parte 
+G941 Hidrocefalia em doenças neoplásicas 
+G942 Hidrocefalia em outras doenças classificadas em outra parte 
+G948 Outros transtornos encefálicos especificados em doenças classificadas em 
+outra parte 
+G950 Siringomielia e siringobulbia 
+G951 Mielopatias vasculares 
+G952 Compressão não especificada de medula espinal 
+G958 Outras doenças especificadas da medula espinal 
+G959 Doença não especificada da medula espinal 
+G960 Fístula liquórica 
+G961 Transtornos das meninges não classificados em outra parte 
+G968 Outros transtornos especificados do sistema nervoso central 
+G969 Transtorno não especificado do sistema nervoso central 
+G970 Perda de líquor resultante de punção espinal 
+G971 Outra reação à punção espinal e lombar 
+G972 Hipotensão intracraniana conseqüente à derivação ventricular 
+G978 Outros transtornos pós-procedimento do sistema nervoso 
+G979 Transtorno pós-procedimento do sistema nervoso, não especificado 
+G98 Outros transtornos do sistema nervoso não classificados em outra parte 
+G990 Neuropatia autonômica em doenças endócrinas e metabólicas 
+G991 Outros transtornos do sistema nervoso autônomo em doenças classificadas em 
+outra parte 
+G992 Mielopatia em doenças classificadas em outra parte 
+G998 Outros transtornos especificados do sistema nervoso em doenças classificadas 
+em outra parte 
+H810 Doença de ménière 
+H811 Vertigem paroxística benigna 
+H812 Neuronite vestibular 
+H813 Outras vertigens periféricas 
+H814 Vertigem de origem central 
+H82 Síndromes vertiginosas em doenças classificadas em outra parte 
+H830 Labirintite 
+H910 Perda de audição ototóxica 
+I020 Coréia reumática com comprometimento cardíaco 
+I029 Coréia reumática sem comprometimento cardíaco 
+I600 Hemorragia subaracnóide proveniente do sifão e da bifurcação da carótida 
+I601 Hemorragia subaracnóide proveniente da artéria cerebral média 
+I602 Hemorragia subaracnóide proveniente da artéria comunicante anterior 
+I603 Hemorragia subaracnóide proveniente da artéria comunicante posterior 
+I604 Hemorragia subaracnóide proveniente da artéria basilar 
+I606 Hemorragia subaracnóide proveniente de outras artérias intracranianas 
+I607 Hemorragia subaracnóide proveniente de artéria intracraniana não especificada 
+A300 Hanseníase [lepra] indeterminada 
+A301 Hanseníase [lepra] tuberculóide 
+A302 Hanseníase [lepra] tuberculóide borderline 
+A303 Hanseníase [lepra] dimorfa 
+A304 Hanseníase [lepra] lepromatosa borderline 
+A305 Hanseníase [lepra] lepromatosa 
+A308 Outras formas de hanseníase [lepra] 
+A309 Hanseníase [lepra] não especificada 
+B92 Seqüelas de hanseníase [lepra] 
+G000 Meningite por Haemophilus 
+G001 Meningite pneumocócica 
+G002 Meningite estreptocócica 
+G003 Meningite estafilocócica 
+G008 Outras meningites bacterianas 
+G009 Meningite bacteriana não especificada 
+G01 Meningite em doenças bacterianas classificadas em outra parte 
+G020 Meningite em doenças virais classificadas em outra parte 
+G021 Meningite em micoses 
+G028 Meningite em outras doenças infecciosas e parasitárias classificadas em outra 
+parte 
+G030 Meningite não-piogênica 
+G031 Meningite crônica 
+G032 Meningite recorrente benigna [Mollaret] 
+G038 Meningite devida a outras causas especificadas 
+G039 Meningite não especificada 
+G040 Encefalite aguda disseminada 
+G041 Paraplegia espástica tropical 
+G042 Meningoencefalite e meningomielite bacterianas não classificadas em outra 
+parte 
+G048 Outras encefalites, mielites e encefalomielites 
+G049 Encefalite, mielite e encefalomielite não especificada 
+G050 Encefalite, mielite e encefalomielite em doenças bacterianas classificadas em 
+outra parte 
+G051 Encefalite, mielite e encefalomielite em doenças virais classificadas em outra 
+parte 
+G052 Encefalite, mielite e encefalomielite em outras doenças infecciosas e 
+parasitárias classificadas em outra parte 
+G058 Encefalite, mielite e encefalomielite em outras doenças classificadas em outra 
+parte 
+G060 Abscesso e granuloma intracranianos 
+G061 Abscesso e granuloma intra-raquidianos 
+G062 Abscesso extradural e subdural não especificados 
+G07 Abscesso e granuloma intracranianos e intraspinais em doenças classificadas 
+em outra parte 
+G08 Flebite e tromboflebite intracranianas e intra-raquidianas 
+G09 Seqüelas de doenças inflamatórias do sistema nervoso central 
+G10 Doença de Huntington 
+G110 Ataxia congênita não-progressiva 
+G111 Ataxia cerebelar de início precoce 
+G112 Ataxia cerebelar de início tardio 
+G113 Ataxia cerebelar com déficit na reparação do dna 
+G114 Paraplegia espástica hereditária 
+G118 Outras ataxias hereditárias 
+G119 Ataxia hereditária não especificada 
+G120 Atrofia muscular espinal infantil tipo I [Werdnig-Hoffman] 
+G121 Outras atrofias musculares espinais hereditárias 
+G122 Doença do neurônio motor 
+G128 Outras atrofias musculares espinais e síndromes musculares correlatas 
+G129 Atrofia muscular espinal não especificada 
+G130 Neuromiopatia e neuropatia paraneoplásicas 
+G131 Outra atrofia sistêmica que afeta primariamente o sistema nervoso central em 
+doenças neoplásicas 
+G132 Atrofia sistêmica que afeta primariamente o sistema nervoso central no 
+mixedema 
+G138 Atrofia sistêmica que afeta primariamente o sistema nervoso central em outras 
+doenças classificadas em outra parte 
+G20 Doença de Parkinson 
+G210 Síndrome maligna dos neurolépticos 
+G211 Outras formas de parkinsonismo secundário induzido por drogas 
+G212 Parkinsonismo secundário devido a outros agentes externos 
+G213 Parkinsonismo pós-encefalítico 
+G218 Outras formas de parkinsonismo secundário 
+G219 Parkinsonismo secundário não especificado 
+G22 Parkinsonismo em doenças classificadas em outra parte 
+G230 Doença de Hallervorden-Spatz 
+G231 Oftalmoplegia supranuclear progressiva [Steele-Richardson-Olszewski] 
+G232 Degeneração estrionígrica 
+G238 Outras doenças degenerativas especificadas dos gânglios da base 
+G239 Doença degenerativa dos gânglios da base, não especificada 
+G240 Distonia induzida por drogas 
+G241 Distonia familiar idiopática 
+G242 Distonia não-familiar idiopática 
+G243 Torcicolo espasmódico 
+G244 Distonia orofacial idiopática 
+G245 Blefaroespasmo 
+G248 Outras distonias 
+G249 Distonia não especificada 
+G250 Tremor essencial 
+G251 Tremor induzido por drogas 
+G252 Outras formas especificadas de tremor 
+G253 Mioclonia 
+G254 Coréia induzida por droga 
+G255 Outras formas de coréia 
+G256 Tiques induzidos por droga e outros tipos de origem orgânica 
+G258 Outras doenças extrapiramidais e transtornos dos movimentos, especificados 
+G259 Doenças extrapiramidais e transtornos dos movimentos, não especificados 
+G26 Doenças extrapiramidais e transtornos dos movimentos em doenças 
+classificadas em outra parte 
+G300 Doença de alzheimer de início precoce 
+G301 Doença de alzheimer de início tardio 
+G308 Outras formas de doença de Alzheimer 
+G309 Doença de alzheimer não especificada 
+G310 Atrofia cerebral circunscrita 
+G311 Degeneração cerebral senil, não classificadas em outra parte 
+G312 Degeneração do sistema nervoso devida ao álcool 
+G318 Outras doenças degenerativas especificadas do sistema nervoso 
+G319 Doença degenerativa do sistema nervoso, não especificada 
+G320 Degeneração combinada subaguda da medula espinal em doenças classificadas 
+em outra parte 
+G328 Outros transtornos degenerativos especificados do sistema nervoso em 
+doenças classificadas em outra parte 
+G35 Esclerose múltipla 
+G360 Neuromielite óptica [doença de Devic] 
+G361 Leucoencefalite hemorrágica aguda e subaguda [Hurst] 
+G368 Outras desmielinizações disseminadas agudas especificadas 
+G369 Desmielinização disseminada aguda não especificada 
+G370 Esclerose difusa 
+G371 Desmielinização central do corpo caloso 
+G372 Mielinólise central da ponte 
+G373 Mielite transversa aguda em doenças desmielinizantes do sistema nervoso 
+central 
+G374 Mielite subaguda necrótica 
+G375 Esclerose concêntrica [baló] 
+G378 Outras doenças desmielinizantes especificadas do sistema nervoso central 
+G379 Doença desmielinizante do sistema nervoso central, não especificada 
+G400 Epilepsia e síndromes epilépticas idiopáticas definidas por sua localização 
+(focal) (parcial) com crises de início focal 
+G401 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais simples 
+G402 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais complexas 
+G403 Epilepsia e síndromes epilépticas generalizadas idiopáticas 
+G404 Outras epilepsias e síndromes epilépticas generalizadas 
+G405 Síndromes epilépticas especiais 
+G406 Crise de grande mal, não especificada (com ou sem pequeno mal) 
+G407 Pequeno mal não especificado, sem crises de grande mal 
+G408 Outras epilepsias 
+G409 Epilepsia, não especificada 
+G410 Estado de grande mal epiléptico 
+G411 Estado de pequeno mal epiléptico 
+G412 Estado de mal epiléptico parcial complexo 
+G418 Outros estados de mal epiléptico 
+G419 Estado de mal epiléptico, não especificado 
+G430 Enxaqueca sem aura [enxaqueca comum] 
+G431 Enxaqueca com aura [enxaqueca clássica] 
+G432 Estado de mal enxaquecoso 
+G433 Enxaqueca complicada 
+G438 Outras formas de enxaqueca 
+G439 Enxaqueca, sem especificação 
+G440 Síndrome de Cluster-Headache 
+G441 Cefaléia vascular, não classificada em outra parte 
+G442 Cefaléia tensional 
+G443 Cefaléia crônica pós-traumática 
+G444 Cefaléia induzida por drogas, não classificada em outra parte 
+G448 Outras síndromes de cefaléia especificadas 
+G450 Síndrome da artéria vértebro-basilar 
+G451 Síndrome da artéria carotídea (hemisférica) 
+G452 Síndrome das artérias pré-cerebrais, múltiplas e bilaterais 
+G453 Amaurose fugaz 
+G454 Amnésia global transitória 
+G458 Outros acidentes isquêmicos cerebrais transitórios e síndromes correlatas 
+G459 Isquemia cerebral transitória não especificada 
+G460 Síndrome da artéria cerebral média 
+G461 Síndrome da artéria cerebral anterior 
+G462 Síndrome da artéria cerebral posterior 
+G463 Síndromes vasculares do tronco cerebral 
+G464 Síndrome vascular cerebelar 
+G465 Síndrome lacunar motora pura 
+G466 Síndrome lacunar sensorial pura 
+G467 Outras síndromes lacunares 
+G468 Outras síndromes vasculares cerebrais em doenças cerebrovasculares 
+G470 Distúrbios do início e da manutenção do sono [insônias] 
+G471 Distúrbios do sono por sonolência excessiva [hipersonia] 
+G472 Distúrbios do ciclo vigília-sono 
+G473 Apnéia de sono 
+G474 Narcolepsia e cataplexia 
+G478 Outros distúrbios do sono 
+G479 Distúrbio do sono, não especificado 
+G500 Nevralgia do trigêmeo 
+G501 Dor facial atípica 
+G508 Outros transtornos do nervo trigêmeo 
+G509 Transtorno não especificado do nervo trigêmeo 
+G510 Paralisia de bell 
+G511 Ganglionite geniculada 
+G512 Síndrome de melkersson 
+G513 Espasmo hemifacial clônico 
+G514 Mioquimia facial 
+G518 Outros transtornos do nervo facial 
+G519 Transtorno não especificado do nervo facial 
+G520 Transtornos do nervo olfatório 
+G521 Transtornos do nervo glossofaríngeo 
+G522 Transtornos do nervo vago 
+G523 Transtornos do nervo hipoglosso 
+G527 Transtornos de múltiplos nervos cranianos 
+G528 Transtornos de outros nervos cranianos especificados 
+G529 Transtorno de nervo craniano não especificado 
+G530 Nevralgia pós-zoster 
+G531 Paralisias de múltiplos nervos cranianos em doenças infecciosas e parasitárias 
+classificadas em outra parte 
+G532 Paralisias de múltiplos nervos cranianos na sarcoidose 
+G533 Paralisias de múltiplos nervos cranianos em doenças neoplásicas 
+G538 Outros transtornos de nervos cranianos em outras doenças classificadas em 
+outra parte 
+G540 Transtornos do plexo braquial 
+G541 Transtornos do plexo lombossacral 
+G542 Transtornos das raízes cervicais não classificadas em outra parte 
+G543 Transtornos das raízes torácicas não classificadas em outra parte 
+G544 Transtornos das raízes lombossacras não classificadas em outra parte 
+G545 Amiotrofia nevrálgica 
+G546 Síndrome dolorosa do membro fantasma 
+G547 Síndrome do membro fantasma sem manifestação dolorosa 
+G548 Outros transtornos das raízes e dos plexos nervosos 
+G549 Transtorno não especificado das raízes e dos plexos nervosos 
+G550 Compressões das raízes e dos plexos nervosos em doenças neoplásicas 
+G551 Compressões das raízes e dos plexos nervosos em transtornos dos discos 
+intervertebrais 
+G552 Compressões das raízes e dos plexos nervosos na espondilose 
+G553 Compressões das raízes e dos plexos nervosos em outras dorsopatias 
+G558 Compressões das raízes e dos plexos nervosos em outras doenças classificadas 
+em outra parte 
+G560 Síndrome do túnel do carpo 
+G561 Outras lesões do nervo mediano 
+G562 Lesões do nervo cubital [ulnar] 
+G563 Lesão do nervo radial 
+G564 Causalgia 
+G568 Outras mononeuropatias dos membros superiores 
+G569 Mononeuropatia dos membros superiores, não especificada 
+G570 Lesão do nervo ciático 
+G571 Meralgia parestésica 
+G572 Lesão do nervo femoral 
+G573 Lesão do nervo poplíteo lateral 
+G574 Lesão do nervo poplíteo medial 
+G575 Síndrome do túnel do tarso 
+G576 Lesão do nervo plantar 
+G578 Outras mononeuropatias dos membros inferiores 
+G579 Mononeuropatia dos membros inferiores, não especificada 
+G580 Neuropatia intercostal 
+G587 Mononeurite múltipla 
+G588 Outras mononeuropatias especificadas 
+G589 Mononeuropatia não especificada 
+G590 Mononeuropatia diabética 
+G598 Outras mononeuropatias em doenças classificadas em outra parte 
+G600 Neuropatia hereditária motora e sensorial 
+G601 Doença de refsum 
+G602 Neuropatia associada a ataxia hereditária 
+G603 Neuropatia progressiva idiopática 
+G608 Outras neuropatias hereditárias e idiopáticas 
+G609 Neuropatia hereditária e idiopática não especificada 
+G610 Síndrome de guillain-barré 
+G611 Neuropatia sérica 
+G618 Outras polineuropatias inflamatórias 
+G619 Polineuropatia inflamatória não especificada 
+G620 Polineuropatia induzida por drogas 
+G621 Polineuropatia alcoólica 
+G622 Polineuropatia devida a outros agentes tóxicos 
+G628 Outras polineuropatias especificadas 
+G629 Polineuropatia não especificada 
+G630 Polineuropatia em doenças infecciosas e parasitárias classificadas em outra 
+parte 
+G631 Polineuropatia em doenças neoplásicas 
+G632 Polineuropatia diabética 
+G633 Polineuropatia em outras doenças endócrinas e metabólicas 
+G634 Polineuropatia em deficiências nutricionais 
+G635 Polineuropatia em doenças sistêmicas do tecido conjuntivo 
+G636 Polineuropatia em outros transtornos osteomusculares 
+G638 Polineuropatia em outras doenças classificadas em outra parte 
+G64 Outros transtornos do sistema nervoso periférico 
+G700 Miastenia gravis 
+G701 Transtornos mioneurais tóxicos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CÓDIGO: 0302060022 
+DESCRIÇÃO: Atendimento fisioterapêutico em pacientes com distúrbios neuro-cinético
+funcionais com complicações (FISIO NEURO) 
+CID 10 
+G122 Doença do neurônio motor 
+G128 Outras atrofias musculares espinais e síndromes musculares correlatas 
+G129 Atrofia muscular espinal não especificada 
+G130 Neuromiopatia e neuropatia paraneoplásicas 
+G131 Outra atrofia sistêmica que afeta primariamente o sistema nervoso central em 
+doenças neoplásicas 
+G132 Atrofia sistêmica que afeta primariamente o sistema nervoso central no mixedema 
+G138 Atrofia sistêmica que afeta primariamente o sistema nervoso central em outras 
+doenças classificadas em outra parte 
+G20 Doença de Parkinson 
+G210 Síndrome maligna dos neurolépticos 
+G211 Outras formas de parkinsonismo secundário induzido por drogas 
+G212 Parkinsonismo secundário devido a outros agentes externos 
+G213 Parkinsonismo pós-encefalítico 
+G218 Outras formas de parkinsonismo secundário 
+G219 Parkinsonismo secundário não especificado 
+G22 Parkinsonismo em doenças classificadas em outra parte 
+G230 Doença de Hallervorden-Spatz 
+G231 Oftalmoplegia supranuclear progressiva [Steele-Richardson-Olszewski] 
+G232 Degeneração estrionígrica 
+G238 Outras doenças degenerativas especificadas dos gânglios da base 
+G239 Doença degenerativa dos gânglios da base, não especificada 
+G240 Distonia induzida por drogas 
+G241 Distonia familiar idiopática 
+G242 Distonia não-familiar idiopática 
+G243 Torcicolo espasmódico 
+G244 Distonia orofacial idiopática 
+G245 Blefaroespasmo 
+G248 Outras distonias 
+G249 Distonia não especificada 
+G250 Tremor essencial 
+G251 Tremor induzido por drogas 
+G252 Outras formas especificadas de tremor 
+G253 Mioclonia 
+G254 Coréia induzida por droga 
+G255 Outras formas de coréia 
+G256 Tiques induzidos por droga e outros tipos de origem orgânica 
+G258 Outras doenças extrapiramidais e transtornos dos movimentos, especificados 
+G259 Doenças extrapiramidais e transtornos dos movimentos, não especificados 
+G26 Doenças extrapiramidais e transtornos dos movimentos em doenças classificadas 
+em outra parte 
+G300 Doença de alzheimer de início precoce 
+G301 Doença de alzheimer de início tardio 
+G308 Outras formas de doença de Alzheimer 
+G309 Doença de alzheimer não especificada 
+G310 Atrofia cerebral circunscrita 
+G311 Degeneração cerebral senil, não classificadas em outra parte 
+G312 Degeneração do sistema nervoso devida ao álcool 
+G318 Outras doenças degenerativas especificadas do sistema nervoso 
+G319 Doença degenerativa do sistema nervoso, não especificada 
+G320 Degeneração combinada subaguda da medula espinal em doenças classificadas 
+em outra parte 
+G328 Outros transtornos degenerativos especificados do sistema nervoso em doenças 
+classificadas em outra parte 
+G35 Esclerose múltipla 
+G360 Neuromielite óptica [doença de Devic] 
+G361 Leucoencefalite hemorrágica aguda e subaguda [Hurst] 
+G368 Outras desmielinizações disseminadas agudas especificadas 
+G369 Desmielinização disseminada aguda não especificada 
+G370 Esclerose difusa 
+G371 Desmielinização central do corpo caloso 
+G372 Mielinólise central da ponte 
+G373 Mielite transversa aguda em doenças desmielinizantes do sistema nervoso central 
+G374 Mielite subaguda necrótica 
+G375 Esclerose concêntrica [baló] 
+G378 Outras doenças desmielinizantes especificadas do sistema nervoso central 
+G379 Doença desmielinizante do sistema nervoso central, não especificada 
+G400 Epilepsia e síndromes epilépticas idiopáticas definidas por sua localização (focal) 
+(parcial) com crises de início focal 
+G401 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais simples 
+G402 Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização 
+(focal) (parcial) com crises parciais complexas 
+G403 Epilepsia e síndromes epilépticas generalizadas idiopáticas 
+G404 Outras epilepsias e síndromes epilépticas generalizadas 
+G405 Síndromes epilépticas especiais 
+G406 Crise de grande mal, não especificada (com ou sem pequeno mal) 
+G407 Pequeno mal não especificado, sem crises de grande mal 
+G408 Outras epilepsias 
+G409 Epilepsia, não especificada 
+G410 Estado de grande mal epiléptico 
+G411 Estado de pequeno mal epiléptico 
+G412 Estado de mal epiléptico parcial complexo 
+G418 Outros estados de mal epiléptico 
+G419 Estado de mal epiléptico, não especificado 
+G430 Enxaqueca sem aura [enxaqueca comum] 
+G431 Enxaqueca com aura [enxaqueca clássica] 
+G432 Estado de mal enxaquecoso 
+G433 Enxaqueca complicada 
+G438 Outras formas de enxaqueca 
+G439 Enxaqueca, sem especificação 
+G440 Síndrome de Cluster-Headache 
+G441 Cefaléia vascular, não classificada em outra parte 
+G442 Cefaléia tensional 
+G443 Cefaléia crônica pós-traumática 
+G444 Cefaléia induzida por drogas, não classificada em outra parte 
+G448 Outras síndromes de cefaléia especificadas 
+G450 Síndrome da artéria vértebro-basilar 
+G451 Síndrome da artéria carotídea (hemisférica) 
+G452 Síndrome das artérias pré-cerebrais, múltiplas e bilaterais 
+G453 Amaurose fugaz 
+G454 Amnésia global transitória 
+G458 Outros acidentes isquêmicos cerebrais transitórios e síndromes correlatas 
+G459 Isquemia cerebral transitória não especificada 
+G460 Síndrome da artéria cerebral média 
+G461 Síndrome da artéria cerebral anterior 
+G462 Síndrome da artéria cerebral posterior 
+G463 Síndromes vasculares do tronco cerebral 
+G464 Síndrome vascular cerebelar 
+G465 Síndrome lacunar motora pura 
+G466 Síndrome lacunar sensorial pura 
+G467 Outras síndromes lacunares 
+G468 Outras síndromes vasculares cerebrais em doenças cerebrovasculares 
+G470 Distúrbios do início e da manutenção do sono [insônias] 
+G471 Distúrbios do sono por sonolência excessiva [hipersonia] 
+G472 Distúrbios do ciclo vigília-sono 
+G473 Apnéia de sono 
+G474 Narcolepsia e cataplexia 
+G478 Outros distúrbios do sono 
+G479 Distúrbio do sono, não especificado 
+G500 Nevralgia do trigêmeo 
+G501 Dor facial atípica 
+G508 Outros transtornos do nervo trigêmeo 
+G509 Transtorno não especificado do nervo trigêmeo 
+G510 Paralisia de bell 
+G511 Ganglionite geniculada 
+G512 Síndrome de melkersson 
+G513 Espasmo hemifacial clônico 
+G514 Mioquimia facial 
+G518 Outros transtornos do nervo facial 
+G519 Transtorno não especificado do nervo facial 
+G520 Transtornos do nervo olfatório 
+G521 Transtornos do nervo glossofaríngeo 
+G522 Transtornos do nervo vago 
+G523 Transtornos do nervo hipoglosso 
+G527 Transtornos de múltiplos nervos cranianos 
+G528 Transtornos de outros nervos cranianos especificados 
+G529 Transtorno de nervo craniano não especificado 
+G530 Nevralgia pós-zoster 
+G531 Paralisias de múltiplos nervos cranianos em doenças infecciosas e parasitárias 
+classificadas em outra parte 
+G532 Paralisias de múltiplos nervos cranianos na sarcoidose 
+G533 Paralisias de múltiplos nervos cranianos em doenças neoplásicas 
+G538 Outros transtornos de nervos cranianos em outras doenças classificadas em outra 
+parte 
+G540 Transtornos do plexo braquial 
+G541 Transtornos do plexo lombossacral 
+G542 Transtornos das raízes cervicais não classificadas em outra parte 
+G543 Transtornos das raízes torácicas não classificadas em outra parte 
+G544 Transtornos das raízes lombossacras não classificadas em outra parte 
+G545 Amiotrofia nevrálgica 
+G546 Síndrome dolorosa do membro fantasma 
+G547 Síndrome do membro fantasma sem manifestação dolorosa 
+G548 Outros transtornos das raízes e dos plexos nervosos 
+G549 Transtorno não especificado das raízes e dos plexos nervosos 
+G550 Compressões das raízes e dos plexos nervosos em doenças neoplásicas 
+G551 Compressões das raízes e dos plexos nervosos em transtornos dos discos 
+intervertebrais 
+G552 Compressões das raízes e dos plexos nervosos na espondilose 
+G553 Compressões das raízes e dos plexos nervosos em outras dorsopatias 
+G558 Compressões das raízes e dos plexos nervosos em outras doenças classificadas 
+em outra parte 
+G560 Síndrome do túnel do carpo 
+G561 Outras lesões do nervo mediano 
+G562 Lesões do nervo cubital [ulnar] 
+G563 Lesão do nervo radial 
+G564 Causalgia 
+G568 Outras mononeuropatias dos membros superiores 
+G569 Mononeuropatia dos membros superiores, não especificada 
+G570 Lesão do nervo ciático 
+G571 Meralgia parestésica 
+G572 Lesão do nervo femoral 
+G573 Lesão do nervo poplíteo lateral 
+G574 Lesão do nervo poplíteo medial 
+G575 Síndrome do túnel do tarso 
+G576 Lesão do nervo plantar 
+G578 Outras mononeuropatias dos membros inferiores 
+G579 Mononeuropatia dos membros inferiores, não especificada 
+G580 Neuropatia intercostal 
+G587 Mononeurite múltipla 
+G588 Outras mononeuropatias especificadas 
+G589 Mononeuropatia não especificada 
+G590 Mononeuropatia diabética 
+G598 Outras mononeuropatias em doenças classificadas em outra parte 
+G600 Neuropatia hereditária motora e sensorial 
+G601 Doença de refsum 
+G602 Neuropatia associada a ataxia hereditária 
+G603 Neuropatia progressiva idiopática 
+G608 Outras neuropatias hereditárias e idiopáticas 
+G609 Neuropatia hereditária e idiopática não especificada 
+G610 Síndrome de guillain-barré 
+G611 Neuropatia sérica 
+G618 Outras polineuropatias inflamatórias 
+G619 Polineuropatia inflamatória não especificada 
+G620 Polineuropatia induzida por drogas 
+G621 Polineuropatia alcoólica 
+G622 Polineuropatia devida a outros agentes tóxicos 
+G628 Outras polineuropatias especificadas 
+G629 Polineuropatia não especificada 
+G630 Polineuropatia em doenças infecciosas e parasitárias classificadas em outra parte 
+G631 Polineuropatia em doenças neoplásicas 
+G632 Polineuropatia diabética 
+G633 Polineuropatia em outras doenças endócrinas e metabólicas 
+G634 Polineuropatia em deficiências nutricionais 
+G635 Polineuropatia em doenças sistêmicas do tecido conjuntivo 
+G636 Polineuropatia em outros transtornos osteomusculares 
+G638 Polineuropatia em outras doenças classificadas em outra parte 
+G64 Outros transtornos do sistema nervoso periférico 
+G700 Miastenia gravis 
+G701 Transtornos mioneurais tóxicos 
+G702 Miastenia congênita e do desenvolvimento 
+G708 Outros transtornos mioneurais especificados 
+G709 Transtorno mioneural não especificado 
+G710 Distrofia muscular 
+G711 Transtornos miotônicos 
+G712 Miopatias congênitas 
+G713 Miopatia mitocondrial não classificada em outra parte 
+G718 Outros transtornos primários dos músculos 
+G719 Transtorno muscular primário não especificado 
+G720 Miopatia induzida por drogas 
+G721 Miopatia alcoólica 
+G722 Miopatia devida a outros agentes tóxicos 
+G723 Paralisia periódica 
+G724 Miopatia inflamatória não classificada em outra parte 
+G728 Outras miopatias especificadas 
+G729 Miopatia não especificada 
+G730 Síndromes miastênicas em doenças endócrinas 
+G731 Síndrome de Eaton-Lambert 
+G732 Outras síndromes miastênicas em doenças neoplásicas 
+G733 Síndromes miastênicas em outras doenças classificadas em outra parte 
+G734 Miopatia em doenças infecciosas e parasitárias classificadas em outra parte 
+G735 Miopatia em doenças endócrinas 
+G736 Miopatia em doenças metabólicas 
+G737 Miopatia em outras doenças classificadas em outra parte 
+G800 Paralisia cerebral quadriplágica espástica 
+G801 Paralisia cerebral diplégica espástica 
+G802 Paralisia cerebral hemiplégica espástica 
+G803 Paralisia cerebral discinética 
+G804 Paralisia cerebral atáxica 
+G808 Outras formas de paralisia cerebral 
+G809 Paralisia cerebral não especificada 
+G810 Hemiplegia flácida 
+G811 Hemiplegia espástica 
+G819 Hemiplegia não especificada 
+G820 Paraplegia flácida 
+G821 Paraplegia espástica 
+G822 Paraplegia não especificada 
+G823 Tetraplegia flácida 
+G824 Tetraplegia espástica 
+G825 Tetraplegia não especificada 
+G830 Diplegia dos membros superiores 
+G831 Monoplegia do membro inferior 
+G832 Monoplegia do membro superior 
+G833 Monoplegia não especificada 
+G834 Síndrome da cauda eqüina 
+G838 Outras síndromes paralíticas especificadas 
+G839 Síndrome paralítica não especificada 
+G900 Neuropatia autonômica periférica idiopática 
+G901 Disautonomia familiar [Síndrome de Riley-Day] 
+G902 Síndrome de Horner 
+G903 Degeneração multissistêmica 
+G908 Outros transtornos do sistema nervoso autônomo 
+G909 Transtorno não especificado do sistema nervoso autônomo 
+G910 Hidrocefalia comunicante 
+G911 Hidrocefalia obstrutiva 
+G912 Hidrocefalia de pressão normal 
+G913 Hidrocefalia pós-traumática não especificada 
+G918 Outras formas de hidrocefalia 
+G919 Hidrocefalia não especificada 
+G92 Encefalopatia tóxica 
+G930 Cistos cerebrais 
+G931 Lesão encefálica anóxica, não classificada em outra parte 
+G932 Hipertensão intracraniana benigna 
+G933 Síndrome da fadiga pós-viral 
+G934 Encefalopatia não especificada 
+G935 Compressão do encéfalo 
+G936 Edema cerebral 
+G937 Síndrome de Reye 
+G938 Outros transtornos especificados do encéfalo 
+G939 Transtorno não especificado do encéfalo 
+G940 Hidrocefalia em doenças infecciosas e parasitárias classificadas em outra parte 
+G941 Hidrocefalia em doenças neoplásicas 
+G942 Hidrocefalia em outras doenças classificadas em outra parte 
+G948 Outros transtornos encefálicos especificados em doenças classificadas em outra 
+parte 
+G950 Siringomielia e siringobulbia 
+G951 Mielopatias vasculares 
+G952 Compressão não especificada de medula espinal 
+G958 Outras doenças especificadas da medula espinal 
+G959 Doença não especificada da medula espinal 
+G960 Fístula liquórica 
+G961 Transtornos das meninges não classificados em outra parte 
+G968 Outros transtornos especificados do sistema nervoso central 
+G969 Transtorno não especificado do sistema nervoso central 
+G970 Perda de líquor resultante de punção espinal 
+G971 Outra reação à punção espinal e lombar 
+G972 Hipotensão intracraniana conseqüente à derivação ventricular 
+G978 Outros transtornos pós-procedimento do sistema nervoso 
+G979 Transtorno pós-procedimento do sistema nervoso, não especificado 
+G98 Outros transtornos do sistema nervoso não classificados em outra parte 
+G990 Neuropatia autonômica em doenças endócrinas e metabólicas 
+G991 Outros transtornos do sistema nervoso autônomo em doenças classificadas em 
+outra parte 
+G992 Mielopatia em doenças classificadas em outra parte 
+G998 Outros transtornos especificados do sistema nervoso em doenças classificadas em 
+outra parte 
+I600 Hemorragia subaracnóide proveniente do sifão e da bifurcação da carótida 
+I601 Hemorragia subaracnóide proveniente da artéria cerebral média 
+I602 Hemorragia subaracnóide proveniente da artéria comunicante anterior 
+I603 Hemorragia subaracnóide proveniente da artéria comunicante posterior 
+I604 Hemorragia subaracnóide proveniente da artéria basilar 
+I605 Hemorragia subaracnóide proveniente da artéria vertebral 
+I606 Hemorragia subaracnóide proveniente de outras artérias intracranianas 
+I607 Hemorragia subaracnóide proveniente de artéria intracraniana não especificada 
+I608 Outras hemorragias subaracnóides 
+I609 Hemorragia subaracnóide não especificada 
+I610 Hemorragia intracerebral hemisférica subcortical 
+I611 Hemorragia intracerebral hemisférica cortical 
+I612 Hemorragia intracerebral hemisférica não especificada 
+I613 Hemorragia intracerebral do tronco cerebral 
+I614 Hemorragia intracerebral cerebelar 
+I615 Hemorragia intracerebral intraventricular 
+I616 Hemorragia intracerebral de múltiplas localizações 
+I618 Outras hemorragias intracerebrais 
+I619 Hemorragia intracerebral não especificada 
+I620 Hemorragia subdural (aguda) (não-traumática) 
+I621 Hemorragia extradural não-traumática 
+I629 Hemorragia intracraniana (não-traumática) não especificada 
+I630 Infarto cerebral devido a trombose de artérias pré-cerebrais 
+I631 Infarto cerebral devido a embolia de artérias pré-cerebrais 
+I632 Infarto cerebral devido a oclusão ou estenose não especificadas de artérias pré
+cerebrais 
+I633 Infarto cerebral devido a trombose de artérias cerebrais 
+I634 Infarto cerebral devido a embolia de artérias cerebrais 
+I635 Infarto cerebral devido a oclusão ou estenose não especificadas de artérias 
+cerebrais 
+I636 Infarto cerebral devido a trombose venosa cerebral não-piogênica 
+I638 Outros infartos cerebrais 
+I639 Infarto cerebral não especificado 
+I64 Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico 
+I672 Aterosclerose cerebral 
+I673 Leucoencefalopatia vascular progressiva 
+I674 Encefalopatia hipertensiva 
+I675 Doença de moyamoya 
+I676 Trombose não-piogênica do sistema venoso intracraniano 
+I677 Arterite cerebral não classificada em outra parte 
+I678 Outras doenças cerebrovasculares especificadas 
+I679 Doença cerebrovascular não especificada 
+I680 Angiopatia cerebral amiloidótica 
+I694 Seqüelas de acidente vascular cerebral não especificado como hemorrágico ou 
+isquêmico 
+J120 Pneumonia devida a adenovírus 
+J121 Pneumonia devida a vírus respiratório sincicial 
+J122 Pneumonia devida à parainfluenza 
+J128 Outras pneumonias virais 
+J129 Pneumonia viral não especificada 
+J13 Pneumonia devida a Streptococcus Pneumoniae 
+J14 Pneumonia devida a Haemophilus Infuenzae 
+J180 Broncopneumonia não especificada 
+J181 Pneumonia lobar não especificada 
+J182 Pneumonia hipostática não especificada 
+J188 Outras pneumonias devidas a microorganismos não especificados 
+J189 Pneumonia não especificada 
+J200 Bronquite aguda devida a Mycoplasma Pneumoniae 
+J201 Bronquite aguda devida a Haemophilus Influenzae 
+J202 Bronquite aguda devida a estreptococos 
+J203 Bronquite aguda devida a vírus Coxsackie 
+J204 Bronquite aguda devida a vírus parainfluenza 
+J205 Bronquite aguda devida a vírus sincicial respiratório 
+J206 Bronquite aguda devida a rinovírus 
+J207 Bronquite aguda devida a echovírus 
+J208 Bronquite aguda devida a outros microorganismos especificados 
+J209 Bronquite aguda não especificada 
+J450 Asma predominantemente alérgica 
+J451 Asma não-alérgica 
+J458 Asma mista 
+J459 Asma não especificada 
+J80 Síndrome do desconforto respiratório do adulto 
+J81 Edema pulmonar, não especificado de outra forma 
+J90 Derrame pleural não classificado em outra parte 
+J91 Derrame pleural em afecções classificadas em outra parte 
+S060 Concussão cerebral 
+S061 Edema cerebral traumático 
+S062 Traumatismo cerebral difuso 
+S063 Traumatismo cerebral focal 
+S064 Hemorragia epidural 
+S065 Hemorragia subdural devida a traumatismo 
+S066 Hemorragia subaracnóide devida a traumatismo 
+S067 Traumatismo intracraniano com coma prolongado 
+S068 Outros traumatismos intracranianos 
+S069 Traumatismo intracraniano, não especificado 
+S071 Lesão por esmagamento do crânio 
+A300 Hanseníase [lepra] indeterminada 
+A301 Hanseníase [lepra] tuberculóide 
+A302 Hanseníase [lepra] tuberculóide borderline 
+A303 Hanseníase [lepra] dimorfa 
+A304 Hanseníase [lepra] lepromatosa borderline 
+A308 Outras formas de hanseníase [lepra] 
+A309 Hanseníase [lepra] não especificada 
+B92 Seqüelas de hanseníase [lepra] 
+G000 Meningite por Haemophilus 
+G001 Meningite pneumocócica 
+G002 Meningite estreptocócica 
+G003 Meningite estafilocócica 
+G008 Outras meningites bacterianas 
+G009 Meningite bacteriana não especificada 
+G01 Meningite em doenças bacterianas classificadas em outra parte 
+G020 Meningite em doenças virais classificadas em outra parte 
+G021 Meningite em micoses 
+G028 Meningite em outras doenças infecciosas e parasitárias classificadas em outra 
+parte 
+G030 Meningite não-piogênica 
+G031 Meningite crônica 
+G032 Meningite recorrente benigna [Mollaret] 
+G038 Meningite devida a outras causas especificadas 
+G039 Meningite não especificada 
+G040 Encefalite aguda disseminada 
+G041 Paraplegia espástica tropical 
+G042 Meningoencefalite e meningomielite bacterianas não classificadas em outra parte 
+G048 Outras encefalites, mielites e encefalomielites 
+G049 Encefalite, mielite e encefalomielite não especificada 
+G050 Encefalite, mielite e encefalomielite em doenças bacterianas classificadas em 
+outra parte 
+G051 Encefalite, mielite e encefalomielite em doenças virais classificadas em outra 
+parte 
+G052 Encefalite, mielite e encefalomielite em outras doenças infecciosas e parasitárias 
+classificadas em outra parte 
+G058 Encefalite, mielite e encefalomielite em outras doenças classificadas em outra 
+parte 
+G060 Abscesso e granuloma intracranianos 
+G061 Abscesso e granuloma intra-raquidianos 
+G062 Abscesso extradural e subdural não especificados 
+G07 Abscesso e granuloma intracranianos e intraspinais em doenças classificadas em 
+outra parte 
+G08 Flebite e tromboflebite intracranianas e intra-raquidianas 
+G09 Seqüelas de doenças inflamatórias do sistema nervoso central 
+G10 Doença de Huntington 
+G110 Ataxia congênita não-progressiva 
+G111 Ataxia cerebelar de início precoce 
+G112 Ataxia cerebelar de início tardio 
+G113 Ataxia cerebelar com déficit na reparação do dna 
+G114 Paraplegia espástica hereditária 
+G118 Outras ataxias hereditárias 
+G119 Ataxia hereditária não especificada 
+G120 Atrofia muscular espinal infantil tipo I [Werdnig-Hoffman] 
+G121 Outras atrofias musculares espinais hereditárias 
+ 
+ 
+ 
+ 
+CÓDIGO: 0302060030 
+DESCRIÇÃO: Atendimento fisioterapêutico nas desordens do desenvolvimento neuro motor 
+(FISIO NEURO) 
+CID 10 
+A300 Hanseníase [lepra] indeterminada 
+A301 Hanseníase [lepra] tuberculóide 
+A302 Hanseníase [lepra] tuberculóide borderline 
+A303 Hanseníase [lepra] dimorfa 
+A304 Hanseníase [lepra] lepromatosa borderline 
+A305 Hanseníase [lepra] lepromatosa 
+A308 Outras formas de hanseníase [lepra] 
+A309 Hanseníase [lepra] não especificada 
+B92 Seqüelas de hanseníase [lepra] 
+G110 Ataxia congênita não-progressiva 
+G111 Ataxia cerebelar de início precoce 
+G112 Ataxia cerebelar de início tardio 
+G113 Ataxia cerebelar com déficit na reparação do dna 
+G114 Paraplegia espástica hereditária 
+G118 Outras ataxias hereditárias 
+G119 Ataxia hereditária não especificada 
+G121 Outras atrofias musculares espinais hereditárias 
+G241 Distonia familiar idiopática 
+G600 Neuropatia hereditária motora e sensorial 
+G601 Doença de refsum 
+G602 Neuropatia associada a ataxia hereditária 
+G603 Neuropatia progressiva idiopática 
+G608 Outras neuropatias hereditárias e idiopáticas 
+G609 Neuropatia hereditária e idiopática não especificada 
+G702 Miastenia congênita e do desenvolvimento 
+G712 Miopatias congênitas 
+G800 Paralisia cerebral quadriplágica espástica 
+G801 Paralisia cerebral diplégica espástica 
+G802 Paralisia cerebral hemiplégica espástica 
+G803 Paralisia cerebral discinética 
+G804 Paralisia cerebral atáxica 
+G808 Outras formas de paralisia cerebral 
+G809 Paralisia cerebral não especificada 
+G830 Diplegia dos membros superiores 
+G831 Monoplegia do membro inferior 
+G832 Monoplegia do membro superior 
+G833 Monoplegia não especificada 
+G834 Síndrome da cauda eqüina 
+G838 Outras síndromes paralíticas especificadas 
+G839 Síndrome paralítica não especificada 
+P070 Recém-nascido com peso muito baixo 
+P071 Outros recém-nascidos de peso baixo 
+P072 Imaturidade extrema 
+P073 Outros recém-nascidos de pré-termo 
+P100 Hemorragia subdural devida a traumatismo de parto 
+P101 Hemorragia cerebral devida a traumatismo de parto 
+P102 Hemorragia intraventricular devida a traumatismo de parto 
+P103 Hemorragia subaracnoídea devida a traumatismo de parto 
+P104 Ruptura tentorial devida a traumatismo de parto 
+P108 Outras lacerações e hemorragias intracranianas devidas a traumatismo de parto 
+P109 Laceração e hemorragia intracranianas não especificadas devidas a 
+traumatismo de parto 
+P110 Edema cerebral devido a traumatismo de parto 
+P111 Outras lesões cerebrais especificadas devidas a traumatismo de parto 
+P112 Lesão cerebral não especificada devida a traumatismo de parto 
+P113 Traumatismo de parto do nervo facial 
+P114 Traumatismo de parto de outros nervos cranianos 
+P115 Traumatismo de parto da coluna e da medula espinhal 
+P119 Traumatismo de parto não especificado do sistema nervoso central 
+P130 Fratura de crânio devida a traumatismo de parto 
+P131 Outras lesões cranianas devidas a traumatismo de parto 
+P132 Lesão do fêmur devida a traumatismo de parto 
+P133 Lesão de outros ossos longos devida a traumatismo de parto 
+P134 Fratura da clavícula devida a traumatismo de parto 
+P138 Lesões de outras partes do esqueleto devidas a traumatismo de parto 
+P139 Lesões não especificadas do esqueleto devidas a traumatismo de parto 
+P140 Paralisia de erb devida a traumatismo de parto 
+P141 Paralisia de Klumpke devida a traumatismo de parto 
+P142 Paralisia do nervo frênico devida a traumatismo de parto 
+P143 Outras lesões do plexo braquial devidas a traumatismo de parto 
+P148 Outras lesões de outras partes do sistema nervoso periférico devidas a 
+traumatismo de parto 
+P149 Lesão não especificada do sistema nervoso periférico devida a traumatismo de 
+parto 
+P200 Hipóxia intra-uterina diagnosticada antes do início do trabalho de parto 
+P201 Hipóxia intra-uterina diagnosticada durante o trabalho de parto e o parto 
+P209 Hipóxia intra-uterina não especificada 
+P210 Asfixia grave ao nascer 
+P211 Asfixia leve ou moderada ao nascer 
+P219 Asfixia ao nascer, não especificada 
+P940 Miastenia grave neonatal transitória 
+P941 Hipertonia congênita 
+P942 Hipotonia congênita 
+P948 Outros transtornos do tônus muscular do recém-nascido 
+P949 Transtorno não especificado do tônus muscular do recém-nascido 
+Q010 Encefalocele frontal 
+Q011 Encefalocele nasofrontal 
+Q012 Encefalocele occipital 
+Q018 Encefalocele de outras localizações 
+Q019 Encefalocele não especificada 
+Q02 Microcefalia 
+Q030 Malformações do aqueduto de sylvius 
+Q031 Atresia das fendas de luschka e do forâmen de magendie 
+Q038 Outra hidrocefalia congênita 
+Q039 Hidrocefalia congênita não especificada 
+Q042 Holoprosencefalia 
+Q043 Outras deformidades por redução do encéfalo 
+Q044 Displasia do septo e das vias ópticas 
+Q045 Megalencefalia 
+Q048 Outras malformações congênitas especificadas do encéfalo 
+Q049 Malformação congênita não especificada do encéfalo 
+Q050 Espinha bífida cervical com hidrocefalia 
+Q051 Espinha bífida torácica com hidrocefalia 
+Q052 Espinha bífida lombar com hidrocefalia 
+Q053 Espinha bífida sacra com hidrocefalia 
+Q054 Espinha bífida não especificada, com hidrocefalia 
+Q055 Espinha bífida cervical, sem hidrocefalia 
+Q056 Espinha bífida torácica, sem hidrocefalia 
+Q058 Espinha bífida sacra, sem hidrocefalia 
+Q059 Espinha bífida não especificada 
+Q700 Coalescência dos dedos (dedos da mão fundidos) 
+Q709 Sindactilia não especificada 
+ 
+ 
+CÓDIGO: 0301070075 
+DESCRIÇÃO: Atendimento / Acompanhamento de paciente em Reab. do desenv. 
+Neuropsicomotor (FISIO NEURO) 
+CID 10 
+F700 Retardo mental leve - menção de ausência de ou de comprometimento mínimo 
+do comportamento 
+F701 Retardo mental leve - comprometimento significativo do comportamento, 
+requerendo vigilância ou tratamento 
+F708 Retardo mental leve - outros comprometimentos do comportamento 
+F709 Retardo mental leve - sem menção de comprometimento do comportamento 
+F710 Retardo mental moderado - menção de ausência de ou de comprometimento 
+mínimo do comportamento 
+F711 Retardo mental moderado - comprometimento significativo do comportamento, 
+requerendo vigilância ou tratamento 
+F718 Retardo mental moderado - outros comprometimentos do comportamento 
+F719 Retardo mental moderado - sem menção de comprometimento do 
+comportamento 
+F720 Retardo mental grave - menção de ausência de ou de comprometimento 
+mínimo do comportamento 
+F721 Retardo mental grave - comprometimento significativo do comportamento, 
+requerendo vigilância ou tratamento 
+F728 Retardo mental grave - outros comprometimentos do comportamento 
+F729 Retardo mental grave - sem menção de comprometimento do comportamento 
+F730 Retardo mental profundo - menção de ausência de ou de comprometimento 
+mínimo do comportamento 
+F731 Retardo mental profundo - comprometimento significativo do comportamento, 
+requerendo vigilância ou tratamento 
+F738 Retardo mental profundo - outros comprometimentos do comportamento 
+F739 Retardo mental profundo - sem menção de comprometimento do 
+comportamento 
+F780 Outro retardo mental - menção de ausência de ou de comprometimento mínimo 
+do comportamento 
+F781 Outro retardo mental - comprometimento significativo do comportamento, 
+requerendo vigilância ou tratamento 
+F788 Outro retardo mental - outros comprometimentos do comportamento 
+F789 Outro retardo mental - sem menção de comprometimento do comportamento 
+F790 Retardo mental não especificado - menção de ausência de ou de 
+comprometimento mínimo do comportamento 
+F791 Retardo mental não especificado - comprometimento significativo do 
+comportamento, requerendo vigilância ou tratamento 
+F798 Retardo mental não especificado - outros comprometimentos do 
+comportamento 
+F799 Retardo mental não especificado - sem menção de comprometimento do 
+comportamento 
+F810 Transtorno específico de leitura 
+F82 Transtorno específico do desenvolvimento motor 
+F83 Transtornos específicos misto do desenvolvimento 
+F840 Autismo infantil 
+F841 Autismo atípico 
+F842 Síndrome de Rett 
+F843 Outro transtorno desintegrativo da infância 
+F844 Transtorno com hipercinesia associada a retardo mental e a movimentos 
+estereotipados 
+F845 Síndrome de asperger 
+F848 Outros transtornos globais do desenvolvimento 
+F849 Transtornos globais não especificados do desenvolvimento 
+F88 Outros transtornos do desenvolvimento psicológico 
+F89 Transtorno do desenvolvimento psicológico não especificado 
+F900 Distúrbios da atividade e da atenção
+F910 Distúrbio de conduta restrito ao contexto familiar
+F920 Distúrbio depressivo de conduta
+F930 Transtorno ligado à angústia de separação
+F940 Mutismo eletivo
+F980 Enurese de origem não-orgânica
+G800 Paralisia cerebral quadriplágica espástica
+G801 Paralisia cerebral diplégica espástica
+G802 Paralisia cerebral hemiplégica espástica
+G803 Paralisia cerebral discinética
+G804 Paralisia cerebral atáxica
+G808 Outras formas de paralisia cerebral
+G809 Paralisia cerebral não especificada
+H540 Cegueira, ambos os olhos
+H900 Perda de audição bilateral devida a transtorno de condução
+H910 Perda de audição ototóxica

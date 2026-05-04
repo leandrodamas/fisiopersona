@@ -1,0 +1,28 @@
+# Aplica todos os SQL listados em sql/migrations.manifest.json no Postgres do projeto (npm run db:migrate).
+# Configure em GitHub: Settings → Secrets → DATABASE_URL (connection string Postgres do Supabase).
+# Rode manualmente: Actions → "Apply Supabase migrations" → Run workflow.
+name: Apply Supabase migrations
+
+on:
+  workflow_dispatch:
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Apply SQL (DATABASE_URL secret)
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: npm run db:migrate

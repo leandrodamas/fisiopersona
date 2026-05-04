@@ -1,0 +1,8 @@
+{
+  "_comment": "Ordem aplicada por npm run db:migrate — todo o SQL do Supabase vai aqui.",
+  "files": [
+    "auto_rollout_fisio_supabase.sql",
+    "auto_rollout_02_professor_dias_estagiarios_arrays.sql",
+    "auto_rollout_03_paciente_cod_procedimento.sql"
+  ]
+}

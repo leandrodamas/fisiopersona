@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "echo \"Static build not required\"",
+    "build": "node scripts/vercel-static-build.mjs",
     "start": "npx serve . -l 3000",
     "start:vercel": "npx vercel dev",
     "deploy": "vercel --prod",
